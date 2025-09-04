@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CAMERA one-word domains still available to buy.
 
-This dataset contains 4,189 .CAMERA one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,223 .CAMERA one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CAMERA one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=camera-oneword-domains&utm_content=description.top) (4,115) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.CAMERA one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/camera-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/camera-oneword-domains/blob/main/camera.csv"><b>⬇️ CSV (4.19K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/camera-oneword-domains/blob/main/camera.json"><b>⬇️ JSON (4.19K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/camera-oneword-domains/blob/main/camera.csv"><b>⬇️ CSV (4.22K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/camera-oneword-domains/blob/main/camera.json"><b>⬇️ JSON (4.22K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=camera-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.12K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -43,6 +43,7 @@ If you want to search & filters the complete database of [.CAMERA one word domai
 | abhorrent.camera  | available | 54       | 1%     | 9      |           |         |         |
 | abiding.camera    | available | 106      | 5%     | 7      |           |         |         |
 | abient.camera     | available | 54       | 1%     | 6      |           |         |         |
+| abit.camera       | available | 66       | 16%    | 5      |           |         |         |
 | abject.camera     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.camera     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.camera  | available | 78       | 1%     | 9      |           |         |         |
@@ -50,12 +51,11 @@ If you want to search & filters the complete database of [.CAMERA one word domai
 | abkhazian.camera  | available | 78       | 1%     | 9      |           |         |         |
 | ablated.camera    | available | 52       | 2%     | 7      |           |         |         |
 | ablative.camera   | available | 68       | 3%     | 8      |           |         |         |
-| ablaze.camera     | available | 72       | 6%     | 6      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/camera-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/camera-oneword-domains/blob/main/camera.csv"><b>⬇️ CSV (4.19K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/camera-oneword-domains/blob/main/camera.json"><b>⬇️ JSON (4.19K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/camera-oneword-domains/blob/main/camera.csv"><b>⬇️ CSV (4.22K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/camera-oneword-domains/blob/main/camera.json"><b>⬇️ JSON (4.22K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=camera-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.12K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
