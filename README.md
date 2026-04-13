@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .camera one-word domains fr
 
 **Public extract:** 9,400 rows · **Live catalog:** 9,401 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/camera`  
 **Best for:** founders, investors, studios
 
@@ -80,10 +80,10 @@ print(df.head())
 | buy.camera    | resell    | —         | —             | 106            | 53     | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | green.camera  | premium   | $520      | $520          | 108            | 45     | 5      | namecheap                                                 |
 | bridge.camera | available | $21.99    | —             | 68             | 47     | 6      | name.com                                                  |
-| love.camera   | resell    | —         | —             | 86             | 52     | 4      | Sav.com, LLC                                              |
-| star.camera   | premium   | $500      | $500          | 86             | 44     | 4      | name.com                                                  |
+| global.camera | resell    | —         | —             | 108            | 51     | 6      | GoDaddy.com, LLC                                          |
+| star.camera   | premium   | $500      | $500          | 86             | 43     | 4      | name.com                                                  |
 | only.camera   | available | $21.99    | $75.99        | 110            | 46     | 4      | name.com                                                  |
-| one.camera    | resell    | —         | —             | 132            | 50     | 3      | Spaceship, Inc.                                           |
+| love.camera   | resell    | —         | —             | 86             | 51     | 4      | Sav.com, LLC                                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAMERA One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAMERA One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
