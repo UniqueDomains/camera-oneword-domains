@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .camera one-word domains from Uniq
 
 **Public extract:** 9,401 rows · **Live catalog:** 9,401 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/camera`  
 **Best for:** founders, investors, studios
 
@@ -67,10 +67,10 @@ print(df.head())
 | good.camera   | available | $21.99    | $75.99        | 82             | 55     | 4      | name.com                                                  |
 | map.camera    | resell    | $72.98    | —             | 78             | 42     | 3      | Dynadot Inc                                               |
 | easy.camera   | premium   | $123.75   | $123.75       | 128            | 68     | 4      | name.com                                                  |
-| fast.camera   | available | $21.99    | $75.99        | 82             | 53     | 4      | name.com                                                  |
+| true.camera   | available | $21.99    | $75.99        | 86             | 52     | 4      | name.com                                                  |
 | prompt.camera | resell    | —         | —             | 114            | 68     | 6      | Porkbun LLC                                               |
 | game.camera   | premium   | $500      | $500          | 120            | 50     | 4      | name.com                                                  |
-| true.camera   | available | $21.99    | $75.99        | 86             | 52     | 4      | name.com                                                  |
+| fast.camera   | available | $21.99    | $75.99        | 82             | 52     | 4      | name.com                                                  |
 | the.camera    | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH                                                 |
 | travel.camera | premium   | $260      | $260          | 115            | 48     | 6      | namecheap                                                 |
 | all.camera    | available | $21.99    | $75.99        | 88             | 48     | 3      | name.com                                                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAMERA One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAMERA One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
