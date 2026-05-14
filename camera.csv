@@ -394,6 +394,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 20a10c05-ab44-4677-94fd-3d00dbb0fd64,sides.camera,available,21.99,,54,12,5,name.com,,
 20c53a51-555b-41c7-ba96-3bff5b41ebff,filed.camera,available,21.99,,48,7,5,name.com,,
 20d11f26-c7f1-4c3e-b3d0-61c06b30e5a4,thongs.camera,available,21.99,,50,5,6,name.com,,
+20ebeb4d-6669-403e-87c2-77c7ac21be84,pointofview.camera,available,21.99,,68,10,13,name.com,,
 210554a2-8faa-4aee-a34f-516ae745f371,gettogether.camera,available,21.99,,82,8,12,name.com,,
 21800b15-b51b-4352-adfc-b31abb60944f,superheroes.camera,available,21.99,,66,12,11,name.com,,
 21c8ecf1-e0f2-495b-b546-b2c849102099,goitalone.camera,available,21.99,,74,1,11,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 535969c5-5762-49d4-b058-5d1c7c8c1ef9,lists.camera,available,21.99,,60,14,5,name.com,,
 535a8dfa-603b-4b89-af21-2d84d378cae1,pours.camera,available,21.99,,46,5,5,name.com,,
 536337a3-1c17-4149-8fad-4f630ae48367,mouthed.camera,available,21.99,,63,1,7,name.com,,
-5374c9a8-ed52-4e64-a80c-86ca18840914,aswespeak.camera,available,21.99,,58,2,11,name.com,,
