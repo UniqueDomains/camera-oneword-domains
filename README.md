@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .camera one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,367 domains · **Median ask:** $28.92 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/camera`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | Trex.camera         | available | $72.98    | —             | 80             | 24     | 5      | namecheap |
 | jewels.camera       | available | $21.99    | —             | 80             | 15     | 6      | name.com  |
 | geton.camera        | available | $21.99    | —             | 82             | 10     | 6      | name.com  |
-| getup.camera        | available | $21.99    | —             | 82             | 14     | 6      | name.com  |
+| getup.camera        | available | $21.99    | —             | 82             | 15     | 6      | name.com  |
 | playon.camera       | available | $21.99    | —             | 80             | 14     | 7      | name.com  |
 | getlife.camera      | available | $21.99    | —             | 80             | 5      | 8      | name.com  |
 | agents.camera       | available | $21.99    | —             | 56             | 50     | 6      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAMERA One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAMERA One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
