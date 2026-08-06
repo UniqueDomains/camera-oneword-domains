@@ -1,10 +1,10 @@
-# Available .CAMERA One-Word Domains (12,367)
+# Available .CAMERA One-Word Domains (12,368)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C367%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C368%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .camera one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,367 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,368 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,367 domains · **Median ask:** $26.55 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,368 domains · **Median ask:** $26.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/camera`
 **Best for:** founders, investors, studios
 
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CAMERA one-word domai
 
 ### Files
 
-- `camera.csv` — public CSV extract (1,000 rows)
-- `camera.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `camera.csv`, public CSV extract (1,000 rows)
+- `camera.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| dining.camera      | available | $21.99    | —             | 81             | 15     | 6      | name.com  |
-| grandfather.camera | available | $21.99    | —             | 102            | 6      | 11     | name.com  |
-| pregnant.camera    | available | $21.99    | —             | 88             | 10     | 8      | name.com  |
-| pointy.camera      | available | $21.99    | —             | 84             | 10     | 6      | name.com  |
-| ancestral.camera   | premium   | —         | —             | 80             | 14     | 9      | —         |
-| pilot.camera       | available | $21.99    | —             | 114            | 36     | 5      | name.com  |
-| version.camera     | available | $21.99    | —             | 94             | 16     | 7      | name.com  |
-| demand.camera      | available | $21.99    | —             | 100            | 21     | 6      | name.com  |
-| blowout.camera     | available | $21.99    | —             | 80             | 7      | 7      | name.com  |
-| imagination.camera | available | $21.99    | —             | 80             | 28     | 11     | name.com  |
-| tshirt.camera      | available | $21.99    | —             | 80             | 25     | 7      | name.com  |
-| warm.camera        | available | $21.99    | $75.99        | 112            | 21     | 4      | name.com  |
-| amateur.camera     | available | $21.99    | $75.99        | 84             | 18     | 7      | name.com  |
-| terminal.camera    | available | $21.99    | $75.99        | 104            | 37     | 8      | name.com  |
-| sunhat.camera      | available | $21.99    | —             | 84             | 5      | 6      | name.com  |
-| guilt.camera       | available | $21.99    | —             | 86             | 7      | 5      | name.com  |
-| lesson.camera      | available | $21.99    | —             | 98             | 14     | 6      | name.com  |
-| maternal.camera    | available | $21.99    | —             | 86             | 6      | 8      | name.com  |
-| solution.camera    | available | $21.99    | —             | 86             | 27     | 8      | name.com  |
-| era.camera         | available | $21.99    | —             | 84             | 40     | 3      | name.com  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| and.camera     | available | $21.99    | —             | high           | medium | 3      | name.com          |
+| data.camera    | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC - 30 |
+| joy.camera     | premium   | $500      | —             | high           | medium | 3      | name.com          |
+| apt.camera     | available | $21.99    | —             | high           | low    | 3      | name.com          |
+| sell.camera    | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC  |
+| net.camera     | premium   | $500      | —             | high           | medium | 3      | name.com          |
+| ash.camera     | available | $21.99    | —             | medium         | low    | 3      | name.com          |
+| check.camera   | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.   |
+| easy.camera    | premium   | $123.75   | $123.75       | high           | medium | 4      | name.com          |
+| Ava.camera     | available | $21.99    | —             | high           | medium | 3      | name.com          |
+| hidden.camera  | resell    | —         | —             | medium         | low    | 6      | Dynadot Inc       |
+| fund.camera    | premium   | $500      | —             | high           | low    | 4      | name.com          |
+| axe.camera     | available | $21.99    | —             | medium         | low    | 3      | name.com          |
+| people.camera  | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc.   |
+| game.camera    | premium   | $500      | $500          | high           | medium | 4      | name.com          |
+| bow.camera     | available | $21.99    | —             | high           | low    | 3      | name.com          |
+| network.camera | resell    | —         | —             | high           | medium | 7      | GoDaddy.com, LLC  |
+| sale.camera    | premium   | $500      | —             | high           | low    | 4      | name.com          |
+| boy.camera     | available | $21.99    | —             | medium         | low    | 3      | name.com          |
+| soul.camera    | premium   | $23.60    | $23.60        | high           | medium | 4      | namesilo          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,367 live domains                        |
+| 1,000-row public sample | 12,368 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely focused on one-word domains in the .camera extension. That makes the comparison simple: the main variables are the strength of the word, how naturally it fits a camera-related use case, and whether the extension helps or limits resale or brand adoption. Sample names such as Acup.camera, Trex.camera, girls.camera, homes.camera, and jewels.camera show the range from broad dictionary words to narrower brand interpretations. When comparing these domains, start with relevance and memorability, then check ask price against your budget and weigh whether a niche extension creates enough clarity to justify the long-term renewal commitment.
+This list gathers one-word and short-phrase domain names under the .camera extension. Pricing sits low across the board — the median ask is roughly $26, and the vast majority of listings fall under $500. Availability dominates the status mix, with premium and resale listings making up a small fraction of the total. Demand signals are mostly low, though a handful of names show mid-to-top demand scores.
 
-- All names in this selection use the .camera TLD
-- Median ask across the set is 28.92
-- Favor words that read cleanly before .camera
-- Check renewal economics before committing
+- 12,368 .camera domains, median ask ~$26
+- 11,199 listings priced under $500
+- 12,211 available; 113 premium, 44 resell
+- 8,075 names flagged easy to spell
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAMERA One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAMERA One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
