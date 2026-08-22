@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .camera one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,868 domains · **Median ask:** $24.69 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/camera`
 **Best for:** founders, investors, studios
 
@@ -64,12 +64,6 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| half.camera    | available | $21.99    | —             | high           | low    | 4      | name.com          |
-| correct.camera | available | $21.99    | $75.99        | high           | low    | 7      | name.com          |
-| content.camera | available | $21.99    | $75.99        | high           | low    | 7      | name.com          |
-| nothing.camera | available | $21.99    | —             | high           | low    | 7      | name.com          |
-| easy.camera    | premium   | $123.75   | $123.75       | high           | medium | 4      | name.com          |
-| away.camera    | available | $21.99    | —             | high           | low    | 4      | name.com          |
 | and.camera     | available | $21.99    | —             | high           | medium | 3      | name.com          |
 | data.camera    | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC - 30 |
 | joy.camera     | premium   | $500      | —             | high           | medium | 3      | name.com          |
@@ -78,12 +72,18 @@ print(df.head())
 | net.camera     | premium   | $500      | —             | high           | medium | 3      | name.com          |
 | ash.camera     | available | $21.99    | —             | medium         | low    | 3      | name.com          |
 | check.camera   | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.   |
+| easy.camera    | premium   | $123.75   | $123.75       | high           | medium | 4      | name.com          |
 | Ava.camera     | available | $21.99    | —             | high           | medium | 3      | name.com          |
 | hidden.camera  | resell    | —         | —             | medium         | low    | 6      | Dynadot Inc       |
 | fund.camera    | premium   | $500      | —             | high           | low    | 4      | name.com          |
 | axe.camera     | available | $21.99    | —             | medium         | low    | 3      | name.com          |
 | people.camera  | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc.   |
 | game.camera    | premium   | $500      | $500          | high           | medium | 4      | name.com          |
+| bow.camera     | available | $21.99    | —             | high           | low    | 3      | name.com          |
+| network.camera | resell    | —         | —             | high           | medium | 7      | GoDaddy.com, LLC  |
+| sale.camera    | premium   | $500      | —             | high           | low    | 4      | name.com          |
+| boy.camera     | available | $21.99    | —             | medium         | low    | 3      | name.com          |
+| soul.camera    | premium   | $23.60    | $23.60        | high           | medium | 4      | namesilo          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAMERA One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAMERA One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
