@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .camera one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,449 domains · **Median ask:** $26.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/camera`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,6 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| half.camera    | available | $21.99    | —             | high           | low    | 4      | name.com         |
-| correct.camera | available | $21.99    | $75.99        | high           | low    | 7      | name.com         |
-| nothing.camera | available | $21.99    | —             | high           | low    | 7      | name.com         |
 | and.camera     | available | $21.99    | —             | high           | medium | 3      | name.com         |
 | sell.camera    | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
 | joy.camera     | premium   | $500      | —             | high           | medium | 3      | name.com         |
@@ -84,6 +81,9 @@ print(df.head())
 | bow.camera     | available | $21.99    | —             | high           | low    | 3      | name.com         |
 | sale.camera    | premium   | $500      | —             | high           | low    | 4      | name.com         |
 | boy.camera     | available | $21.99    | —             | medium         | low    | 3      | name.com         |
+| soul.camera    | premium   | $23.60    | $23.60        | high           | medium | 4      | namesilo         |
+| clx.camera     | available | $21.99    | $75.99        | low            | low    | 3      | name.com         |
+| sport.camera   | premium   | $500      | —             | high           | low    | 5      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAMERA One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAMERA One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
