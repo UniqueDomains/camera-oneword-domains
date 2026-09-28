@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 8151a547-f119-4a92-8ef2-44c498ff5183,unhallowed.camera,available,58.99,58.99,medium,low,10,namesilo,,,12/09/2026 11:49
 a9fef23d-1c0c-40a1-ba36-30b99ac843b9,honour.camera,available,58.99,58.99,high,low,6,namesilo,,,16/09/2026 22:47
-a2d78a8b-c15c-4e8d-84da-1345e598602c,dismay.camera,available,21.99,,high,low,6,name.com,,,
+a2d78a8b-c15c-4e8d-84da-1345e598602c,dismay.camera,available,21.99,,medium,low,6,name.com,,,
 99468efe-7241-4f5a-96e5-fda398a3a1fb,spiritous.camera,available,58.99,58.99,medium,low,9,namesilo,,,10/09/2026 16:00
 7da5e7fc-f9fe-49fd-8220-713a05145857,smarmy.camera,available,21.99,75.99,medium,low,6,name.com,,,11/08/2026 11:46
 86536c4a-4a39-467f-b5f3-e92fbff4f5ad,sixteenth.camera,available,21.99,75.99,high,low,9,name.com,,,
@@ -21,13 +21,13 @@ b3f17f65-6ef9-4946-9c2f-8ddf97c1a1e5,grandmother.camera,available,21.99,,high,lo
 4dbaa1c1-ebe7-4c46-b318-3966fed7cf50,viscous.camera,available,21.99,75.99,high,low,7,name.com,,,20/08/2026 15:25
 cb4899e3-235a-4be1-84c2-f45bfee16b95,primes.camera,available,58.99,58.99,medium,low,6,namesilo,,,20/09/2026 11:21
 30b2eb3d-abae-4157-9a24-e92051a4ff1f,scrutinise.camera,available,21.99,75.99,high,low,10,name.com,,,21/09/2026 03:07
-491a6ad9-ba16-4608-b4f1-c5b05fcc6d12,curt.camera,available,21.99,75.99,high,low,4,name.com,,,11/08/2026 07:05
+491a6ad9-ba16-4608-b4f1-c5b05fcc6d12,curt.camera,available,21.99,75.99,medium,low,4,name.com,,,11/08/2026 07:05
 a99c1a3e-c457-4726-8d31-5530fca845fd,bns.camera,available,58.99,58.99,high,low,3,namesilo,,,21/09/2026 14:15
 85db35ea-8c25-4101-ab84-d6b49e46b41d,birdsong.camera,available,61.98,72.98,high,low,8,namecheap,,,23/09/2026 20:37
 ae4e04dd-8afb-4b54-b047-da5bf905dba4,comparing.camera,available,61.98,72.98,high,low,9,namecheap,,,24/09/2026 16:45
 5670facf-2e47-45bd-bd1e-ec424a11353e,wifi.camera,available,58.99,58.99,high,low,5,namesilo,,,16/09/2026 14:19
 9e4742e7-6c66-4eb4-8fa9-a506fea2b634,emoji.camera,available,21.99,,high,low,5,name.com,,,
-6152d103-97b8-46be-98bb-97fede1073f3,diminutive.camera,available,21.99,75.99,high,low,10,name.com,,,08/08/2026 14:10
+6152d103-97b8-46be-98bb-97fede1073f3,diminutive.camera,available,21.99,75.99,medium,low,10,name.com,,,08/08/2026 14:10
 25aec546-2617-4563-ac52-039d14763e95,springlike.camera,available,58.99,58.99,medium,low,10,namesilo,,,10/09/2026 16:53
 b6d7ff67-b44e-48be-85a6-1fad9b73d2ea,thready.camera,available,21.99,75.99,medium,low,7,name.com,,,18/08/2026 04:08
 f0ee2ed5-ba5f-479b-b1b0-4bbf0ca834cb,papaw.camera,available,58.99,58.99,medium,low,5,namesilo,,,20/09/2026 14:12
@@ -41,10 +41,12 @@ aa2a975c-aa4d-461d-bf32-3082794820c7,consider.camera,available,58.99,58.99,high,
 65728d4b-6303-4512-af0d-5aa60fa50c95,suppliant.camera,available,58.99,58.99,medium,low,9,namesilo,,,11/09/2026 02:30
 e1f5e862-d013-4c1b-95be-5eefd6f56579,annulment.camera,available,58.99,58.99,medium,low,9,namesilo,,,16/09/2026 17:16
 b66baa6c-a014-47a1-9656-3d742558f6a2,rhoda.camera,available,21.99,,high,low,5,name.com,,,
+f55953a9-a3a1-47b8-ac2c-0839658cc3c9,kingsley.camera,available,58.99,58.99,medium,low,8,namesilo,,,27/09/2026 20:56
 5a14b5aa-41c7-41d6-a933-7110fce5b276,salon.camera,available,58.99,58.99,high,low,5,namesilo,,,22/09/2026 22:23
 95f1da4b-be90-424b-9b9f-0848b20efa1f,gives.camera,available,58.99,58.99,medium,low,5,namesilo,,,18/09/2026 13:54
 f8148103-ccb5-434c-8289-0a80ab28a470,fidgety.camera,available,21.99,75.99,medium,low,7,name.com,,,05/08/2026 20:32
 057fddf8-6d09-4805-b989-73c9b31bcdbf,notice.camera,available,61.98,72.98,high,low,6,namecheap,,,24/09/2026 16:29
+1896e3e7-f78d-41ce-9c19-20c674b67288,hiram.camera,available,46.78,46.78,medium,low,5,spaceship,,,27/09/2026 19:47
 78af7323-5d59-4b00-950a-5d12e127b1cc,noisy.camera,available,61.98,72.98,high,low,5,namecheap,,,03/09/2026 18:15
 bab3305d-6954-45d0-b1c2-54bee56865dc,hydraulic.camera,available,21.99,75.99,high,low,9,name.com,,,21/08/2026 16:17
 867038d8-9755-454a-9ee6-aaf043b67527,ended.camera,available,21.99,75.99,high,low,5,name.com,,,
@@ -61,13 +63,14 @@ ea7fe075-010f-4b5f-b1ac-63356ac00985,referred.camera,available,58.99,58.99,mediu
 2dfd8292-72d8-4f3d-b9e1-b5f89c47ba9d,bartok.camera,available,58.99,58.99,medium,low,6,namesilo,,,22/09/2026 09:23
 5d66ca7d-0f9c-4da3-9a66-fd3a0dab0471,rivalrous.camera,available,61.98,72.98,medium,low,9,namecheap,,,09/09/2026 18:06
 9c7860e2-62f2-405e-a709-51a344a2612d,senator.camera,available,61.98,72.98,high,low,7,namecheap,,,26/09/2026 00:17
-b3539271-87a8-42b9-a7cf-0effc9ede6a7,raiment.camera,available,61.98,72.98,high,low,7,namecheap,,,19/09/2026 19:57
+b3539271-87a8-42b9-a7cf-0effc9ede6a7,raiment.camera,available,61.98,72.98,medium,low,7,namecheap,,,19/09/2026 19:57
 edf829ef-d08f-4465-95e0-a8f25b3965be,consistently.camera,available,21.99,,high,low,12,name.com,,,
 241dedfe-d8a9-4ced-9660-318624536137,untilled.camera,available,61.98,72.98,medium,low,8,namecheap,,,12/09/2026 21:24
 427f7c1a-6157-46e6-840d-0cd738f5321f,swimsuit.camera,available,58.99,58.99,high,low,8,namesilo,,,22/09/2026 13:37
+cd990f73-f364-49e6-85ba-931a4c17e780,met.camera,available,46.78,46.78,high,low,3,spaceship,,,27/09/2026 17:23
 11f019ba-16ac-4b58-be9c-f710578c954f,opened.camera,available,58.99,58.99,high,low,6,namesilo,,,04/09/2026 16:13
 2de7c608-04d4-42ac-b3aa-e90844acd486,bustle.camera,available,58.99,58.99,high,low,6,namesilo,,,17/09/2026 09:10
-763a96ba-4519-451b-a2c6-b4e5bd7bb3d0,ebullient.camera,available,21.99,75.99,high,low,9,name.com,,,14/08/2026 23:20
+763a96ba-4519-451b-a2c6-b4e5bd7bb3d0,ebullient.camera,available,21.99,75.99,medium,low,9,name.com,,,14/08/2026 23:20
 b6153a8e-1ea0-443d-8741-2e4637b706cc,inharmonic.camera,available,21.99,75.99,low,low,10,name.com,,,14/08/2026 10:54
 9a380fa2-f517-455f-9acb-d7a2df9539a7,swarthy.camera,available,58.99,58.99,medium,low,7,namesilo,,,11/09/2026 05:25
 b262a8c0-4552-4650-8c95-0174575e151b,straight.camera,available,21.99,75.99,high,low,8,name.com,,,14/08/2026 08:46
@@ -138,7 +141,7 @@ b45d25dc-bd94-4361-8994-59d8b61a1193,linguistic.camera,available,21.99,75.99,hig
 c7521a58-7e2a-483d-9dc2-cc6d3b80f8a0,pastoral.camera,available,21.99,75.99,high,low,8,name.com,,,06/08/2026 14:20
 2551fb41-9fd6-4876-98bb-6c8e082c5ece,phallic.camera,available,58.99,58.99,medium,low,7,namesilo,,,08/09/2026 18:31
 44a6ad38-923e-4a71-85a5-f2a64c0df5f1,sectarian.camera,available,58.99,58.99,medium,low,9,namesilo,,,10/09/2026 01:13
-2e441690-bfeb-420b-8925-19a8ee984803,weaponry.camera,available,61.98,72.98,high,low,8,namecheap,,,20/09/2026 07:43
+2e441690-bfeb-420b-8925-19a8ee984803,weaponry.camera,available,61.98,72.98,medium,low,8,namecheap,,,20/09/2026 07:43
 22934542-ef54-48dc-b1c1-0c2d524c8e12,polysemous.camera,available,58.99,58.99,medium,low,10,namesilo,,,08/09/2026 23:31
 a9fc6f42-1bb0-4f20-a40e-f38030a7145d,awny.camera,available,21.99,75.99,medium,low,4,name.com,,,08/08/2026 01:25
 a06d52da-4c94-49cc-a767-1f7a7ccc3eac,favourable.camera,available,61.98,72.98,high,low,10,namecheap,,,24/09/2026 17:24
@@ -152,9 +155,9 @@ b2801e75-be91-48ad-a5c6-2120740807a3,encamp.camera,available,21.99,75.99,medium,
 96d9e1f5-aa00-473e-b99b-5748b9a1aec8,phonemic.camera,available,61.98,72.98,medium,low,8,namecheap,,,08/09/2026 19:02
 6f9a63ec-e7ef-4bc2-aebf-bf43ea1c6b8a,vicenary.camera,available,58.99,58.99,medium,low,8,namesilo,,,13/09/2026 05:21
 01dd8a01-aa55-4069-833b-1c371c4a3135,elysian.camera,available,21.99,75.99,high,low,7,name.com,,,16/08/2026 06:18
-34bf9bfc-6ce3-4f36-a08f-27a85b84ae2e,palladian.camera,available,58.99,58.99,high,low,9,namesilo,,,04/09/2026 23:44
+34bf9bfc-6ce3-4f36-a08f-27a85b84ae2e,palladian.camera,available,58.99,58.99,medium,low,9,namesilo,,,04/09/2026 23:44
 438493db-dba3-4311-b599-56455109b075,gonzo.camera,available,21.99,75.99,high,low,5,name.com,,,10/08/2026 10:27
-e86c1570-ce05-41f3-8010-258d3eb98c96,insurgent.camera,available,21.99,75.99,high,low,9,name.com,,,22/08/2026 07:44
+e86c1570-ce05-41f3-8010-258d3eb98c96,insurgent.camera,available,21.99,75.99,medium,low,9,name.com,,,22/08/2026 07:44
 82c1620d-dc90-425f-b5d4-bf12cf17253d,denial.camera,available,21.99,,high,low,6,name.com,,,
 89b175b4-207d-413f-a2fd-247b6a379467,filetypes.camera,available,61.98,72.98,low,low,9,namecheap,,,20/09/2026 01:57
 04a5f43c-93f5-4c52-ab6f-e1eec802344e,arrowsmith.camera,available,58.99,58.99,medium,low,10,namesilo,,,20/09/2026 09:31
@@ -169,7 +172,7 @@ f5390323-7d07-41e7-9fbc-3305ef2e0c0c,otoscope.camera,available,58.99,58.99,mediu
 cb4b0af7-4c3f-4536-ae3b-91c28cd2c7b8,wads.camera,available,58.99,58.99,high,low,4,namesilo,,,14/09/2026 23:30
 3459cd9d-4b1e-4f0c-9972-0890f89b82e5,kurt.camera,available,58.99,58.99,high,low,4,namesilo,,,25/09/2026 13:27
 055635d5-e379-45a8-aa40-e5f272f0e94b,bleary.camera,available,21.99,75.99,medium,low,6,name.com,,,10/08/2026 13:59
-dad84613-795d-4930-946f-9179cee68414,selected.camera,available,21.99,,high,low,8,name.com,,,
+dad84613-795d-4930-946f-9179cee68414,selected.camera,available,58.99,58.99,high,low,8,namesilo,,,27/09/2026 19:50
 1e22a436-9d65-47ad-9a91-d249b0e5883f,mousy.camera,available,21.99,75.99,medium,low,5,name.com,,,25/08/2026 08:42
 e37b8366-09dd-490b-8f3a-569444e6ab9f,idiot.camera,available,58.99,58.99,high,low,5,namesilo,,,23/09/2026 07:42
 a5be12db-72d9-4b66-b619-6320bf870bb9,conniption.camera,available,21.99,75.99,medium,low,10,name.com,,,18/08/2026 05:43
@@ -186,7 +189,7 @@ ef30f6dc-d7d7-4848-aefa-7565b1218cf8,concoct.camera,available,21.99,,high,low,7,
 da443605-6e0d-4b59-a5d9-6ad369f9465f,hence.camera,available,21.99,,high,low,5,name.com,,,
 913df5e5-7ac6-4b7a-9962-2ace2f2e2fea,background.camera,available,21.99,,high,low,10,name.com,,,
 1a4fedc6-7f1d-481b-ad77-97589251e50a,greenish.camera,available,21.99,75.99,medium,low,8,name.com,,,13/08/2026 18:01
-55872ad0-cbd4-4dff-9ecd-8771bda0de5d,such.camera,available,21.99,,high,low,4,name.com,,,
+55872ad0-cbd4-4dff-9ecd-8771bda0de5d,such.camera,available,89.99,89.99,high,low,4,godaddy,,,28/09/2026 01:50
 d7b24a35-2fc7-4192-bf8a-0a1675446c31,twinkle.camera,available,21.99,75.99,high,low,7,name.com,,,18/08/2026 06:46
 cd649f1d-6c4b-4f41-a9ff-4ffd00e44e79,optical.camera,available,58.99,58.99,high,low,7,namesilo,,,04/09/2026 00:42
 7fb9c899-9c54-4202-8b9c-5d5fd26d843a,kenneth.camera,available,61.98,72.98,high,low,7,namecheap,,,25/09/2026 19:13
@@ -225,6 +228,7 @@ de6fc57f-af97-44cb-9225-cd1cc3c1bfe4,ringer.camera,available,58.99,58.99,high,lo
 6f963a57-3ec8-49f1-8d37-dd74f9459f6d,ackack.camera,available,21.99,75.99,medium,low,7,name.com,,,
 9311c8d8-023b-44f5-a531-520cf987adb0,tribe.camera,available,21.99,75.99,high,medium,5,name.com,,,22/08/2026 16:07
 70218627-6515-4715-a2c8-6b2604b32a39,beograd.camera,available,58.99,58.99,high,low,7,namesilo,,,23/09/2026 05:12
+bd40e95e-b0ca-4b01-a525-60530aca0bc2,concentration.camera,available,58.99,58.99,high,low,13,namesilo,,,27/09/2026 21:44
 4f6e8a92-6240-488b-8c1a-edd902cfabbf,meatless.camera,available,21.99,75.99,medium,low,8,name.com,,,24/08/2026 18:33
 b80e4fab-d317-4346-9958-de11fae1ed2c,maginot.camera,available,61.98,72.98,medium,low,7,namecheap,,,19/09/2026 04:15
 ba1d9499-0b95-4975-ac23-b6984500ba1c,four.camera,available,58.99,58.99,high,low,4,namesilo,,,21/09/2026 13:11
@@ -240,21 +244,22 @@ c59cb708-3ea7-4e16-a571-d0a5650913c2,kids.camera,premium,128.7,128.7,high,low,4,
 041f92cd-fd65-402d-8916-d3405305690c,bears.camera,available,21.99,,high,low,5,name.com,,,
 eccfa6af-637b-4acd-986b-51b98829b4d3,deductive.camera,available,21.99,75.99,medium,low,9,name.com,,,13/08/2026 22:29
 6a4c778d-22ae-42bc-b50e-9c75a6d463ff,prink.camera,available,58.99,58.99,medium,low,5,namesilo,,,21/09/2026 02:05
-e2d94d61-68c1-427d-8785-ba87da75c1cb,certain.camera,available,21.99,,high,low,7,name.com,,,
+e2d94d61-68c1-427d-8785-ba87da75c1cb,certain.camera,available,11.84,46.86,high,low,7,porkbun,,,27/09/2026 19:05
 81dac8f7-d08b-47af-956b-fee0a1c87e96,gamble.camera,available,58.99,58.99,high,low,6,namesilo,,,17/09/2026 10:37
 8d7c6bb3-34cf-4d12-ba60-8d7087e68bbd,lineal.camera,available,21.99,75.99,medium,low,6,name.com,,,23/08/2026 14:16
 5ec89c56-a9ad-495d-b6d6-c85c5617b59c,asinine.camera,available,21.99,75.99,low,low,7,name.com,,,07/08/2026 02:35
+9bad611a-2ebf-4f72-95ab-16186bb4414c,harriet.camera,available,45.2,45.2,high,low,7,cloudflare,,,27/09/2026 22:29
 17146ade-9688-47dc-bbab-c273193f0fe3,dakar.camera,available,21.99,,high,low,5,name.com,,,
-d405ad86-93d2-4b6d-b75a-5b7784f5a6c8,pillowcase.camera,available,21.99,,high,low,11,name.com,,,
+d405ad86-93d2-4b6d-b75a-5b7784f5a6c8,pillowcase.camera,available,21.99,,medium,low,11,name.com,,,
 79036250-a6c2-4ef8-83cd-f04fc3ff30c5,remote.camera,resell,,,high,medium,6,Dynadot Inc,01/09/2017 23:20,01/09/2027 23:20,26/09/2026 08:35
 25521797-d625-42e2-9262-c95f721dceb2,rube.camera,available,21.99,75.99,medium,low,4,name.com,,,21/08/2026 08:03
 67a2d6f6-c801-4cbe-8f32-bd5990a69b1a,skies.camera,available,61.98,72.98,high,low,5,namecheap,,,18/09/2026 07:49
 ed285353-da61-4857-98c7-49f8e6a6dc49,mall.camera,available,21.99,,high,low,4,name.com,,,
 afc9ff35-f310-4e75-b198-442e5ec97783,declared.camera,available,21.99,75.99,medium,low,8,name.com,,,13/08/2026 21:46
 61d30605-ed13-4fb2-9da1-52de69451b78,amberbell.camera,available,58.99,58.99,medium,low,9,namesilo,,,18/09/2026 16:32
-cd6e1b9f-94c4-4b44-ae4e-93a71b0a1bd1,elderberry.camera,available,58.99,58.99,high,low,10,namesilo,,,24/09/2026 00:39
+cd6e1b9f-94c4-4b44-ae4e-93a71b0a1bd1,elderberry.camera,available,58.99,58.99,medium,low,10,namesilo,,,24/09/2026 00:39
 c62f24b5-35d1-41ed-b37e-55b7bf576330,peaty.camera,available,58.99,58.99,medium,low,5,namesilo,,,08/09/2026 11:28
-c93a07fe-3db3-41b7-99ff-f4202ce9c3a9,tangled.camera,available,58.99,58.99,high,low,7,namesilo,,,11/09/2026 07:59
+c93a07fe-3db3-41b7-99ff-f4202ce9c3a9,tangled.camera,available,58.99,58.99,medium,low,7,namesilo,,,11/09/2026 07:59
 a64faf45-d6f8-46c9-8bcc-21110120be08,unlabeled.camera,available,58.99,58.99,medium,low,9,namesilo,,,12/09/2026 14:28
 921a5865-52d4-4095-9240-3a779433d30d,surroundings.camera,available,58.99,58.99,high,low,12,namesilo,,,23/09/2026 13:59
 c057ece0-a387-44ec-9582-a6f3439793da,mountain.camera,available,58.99,58.99,high,low,8,namesilo,,,25/09/2026 20:48
@@ -262,19 +267,19 @@ a2404589-6815-4cb4-98d1-74818d405508,hardworking.camera,available,21.99,,high,lo
 6a07ee6a-bd4e-4c27-b85c-78e360d3344e,shouts.camera,available,58.99,58.99,medium,low,6,namesilo,,,18/09/2026 07:00
 0002ecdf-e028-4fb2-be0d-c14f1acfb43d,galveston.camera,available,58.99,58.99,high,low,9,namesilo,,,27/09/2026 04:07
 3690277a-9d3c-4fb0-b43a-6805bc94be76,masted.camera,available,21.99,75.99,medium,low,6,name.com,,,24/08/2026 16:45
-e5828f1e-e06f-401d-91af-69800602b3b6,multiplied.camera,available,58.99,58.99,high,low,10,namesilo,,,03/09/2026 10:54
+e5828f1e-e06f-401d-91af-69800602b3b6,multiplied.camera,available,58.99,58.99,medium,low,10,namesilo,,,03/09/2026 10:54
 cf73d2e1-7279-458e-b91e-edee4a559a5e,hid.camera,available,58.99,58.99,medium,low,3,namesilo,,,26/09/2026 03:17
-89db21bd-f8d5-4d70-b673-6eda04b92389,tectonic.camera,available,21.99,75.99,high,low,8,name.com,,,06/08/2026 15:47
+89db21bd-f8d5-4d70-b673-6eda04b92389,tectonic.camera,available,21.99,75.99,medium,low,8,name.com,,,06/08/2026 15:47
 e55437c7-f904-4cfd-953d-d1d7e63f6d8a,sulfurized.camera,available,21.99,75.99,medium,low,10,name.com,,,11/09/2026 01:25
 65628845-72a7-428b-89f3-2ab7293101fc,agrypnia.camera,available,61.98,72.98,medium,low,8,namecheap,,,17/09/2026 20:02
 6bb6c8b9-67d8-40db-8e88-52631427343f,inhibit.camera,available,21.99,,high,low,7,name.com,,,
-d9f0cd9c-b5ba-4c97-b4ac-cc72885df29f,trichrome.camera,available,61.98,72.98,high,low,9,namecheap,,,11/09/2026 19:24
+d9f0cd9c-b5ba-4c97-b4ac-cc72885df29f,trichrome.camera,available,61.98,72.98,medium,low,9,namecheap,,,11/09/2026 19:24
 bbad7bc8-cfb4-4f6c-b3d0-99593d9e4177,churl.camera,available,21.99,75.99,medium,low,5,name.com,,,13/08/2026 05:00
 a698ed1b-1600-4437-97a0-0a9b7ab0ae85,maggie.camera,available,61.98,72.98,high,low,6,namecheap,,,25/09/2026 11:56
 9cdacb23-f870-48fd-b5e5-fa4f154eae8d,completing.camera,available,58.99,58.99,high,low,10,namesilo,,,23/09/2026 17:20
 e827a469-330e-4d20-b352-0fcb32344fb1,spiceberry.camera,available,58.99,58.99,medium,low,10,namesilo,,,20/09/2026 03:12
 eb596cb6-94ef-4b53-9a22-3c799aeeb5eb,archway.camera,available,58.99,58.99,high,low,7,namesilo,,,20/09/2026 02:39
-107361e6-28f1-4df5-b88e-3c599c4ef3b6,inflowing.camera,available,21.99,75.99,high,low,9,name.com,,,22/08/2026 04:34
+107361e6-28f1-4df5-b88e-3c599c4ef3b6,inflowing.camera,available,21.99,75.99,medium,low,9,name.com,,,22/08/2026 04:34
 ee8cd556-e845-4f9a-8ba2-32f4b23b6b81,bhaga.camera,available,61.98,72.98,medium,low,5,namecheap,,,23/09/2026 12:29
 4c92dcc2-232e-4fc3-b36f-a0b69b4b1b07,birdcall.camera,available,61.98,72.98,high,low,8,namecheap,,,23/09/2026 20:35
 775631e7-bba1-4424-a7ef-1f8355aaf48d,uppity.camera,available,58.99,58.99,medium,low,6,namesilo,,,12/09/2026 23:17
@@ -287,11 +292,12 @@ c9adb65a-4f34-4da0-8a01-f8f8cc5ddee4,hooter.camera,available,58.99,58.99,high,lo
 524248af-9ec5-427a-afe7-3584242e2df5,underived.camera,available,58.99,58.99,medium,low,9,namesilo,,,12/09/2026 07:29
 539623b2-2a10-4e8a-8f57-85484baecd1b,barramundi.camera,available,61.98,72.98,medium,low,10,namecheap,,,20/09/2026 14:04
 1c09d5c2-ecde-4107-afdd-cb4e33e4efc5,converted.camera,available,58.99,58.99,high,low,9,namesilo,,,23/09/2026 00:43
-5bf49276-1962-4974-8d75-8aab88f4e980,manchurian.camera,available,21.99,75.99,high,low,10,name.com,,,24/08/2026 14:34
+5bf49276-1962-4974-8d75-8aab88f4e980,manchurian.camera,available,21.99,75.99,medium,low,10,name.com,,,24/08/2026 14:34
 67d5803c-9011-46e0-ae57-3e3919bbb0f7,shitty.camera,available,21.99,75.99,high,low,6,name.com,,,13/08/2026 05:14
-d490e1a1-fa1e-47f6-aaec-d2989ebd126f,patronize.camera,available,21.99,75.99,high,low,9,name.com,,,18/08/2026 15:08
+d490e1a1-fa1e-47f6-aaec-d2989ebd126f,patronize.camera,available,21.99,75.99,medium,low,9,name.com,,,18/08/2026 15:08
 edbd3331-03b6-42a3-bf49-e0fbd1456c4e,dentate.camera,available,21.99,75.99,medium,low,7,name.com,,,14/08/2026 01:57
 4e53f4d7-6016-4368-8164-4eb3d8cfee6e,basset.camera,available,58.99,58.99,medium,low,6,namesilo,,,22/09/2026 12:10
+223cb14e-90f8-4b97-ae0d-a1bf448b53b2,andover.camera,available,58.99,58.99,medium,low,7,namesilo,,,27/09/2026 18:38
 84a1c240-36c3-4af8-aa02-4b6c3a2612dd,fatigued.camera,available,21.99,75.99,medium,low,8,name.com,,,14/08/2026 14:49
 3f4002d0-b27b-488a-862b-bba948a854c7,suspicion.camera,available,58.99,58.99,high,low,9,namesilo,,,24/09/2026 23:14
 4b122d88-9542-4d54-8495-7d49615e4d74,proved.camera,available,58.99,58.99,high,low,6,namesilo,,,27/09/2026 07:48
@@ -299,7 +305,7 @@ edbd3331-03b6-42a3-bf49-e0fbd1456c4e,dentate.camera,available,21.99,75.99,medium
 c8e95224-e35a-4ce2-9801-8e9c34dec6fe,grateful.camera,available,21.99,75.99,high,low,8,name.com,,,20/08/2026 18:22
 12533495-4472-4c46-a49d-f823625543ea,warty.camera,available,21.99,75.99,medium,low,5,name.com,,,13/09/2026 04:24
 83483fd7-fd79-4761-aa08-a23dd44c5034,embrace.camera,available,21.99,,high,low,7,name.com,,,
-f412c505-ca5c-473d-8787-47f00cc110af,bethe.camera,available,61.98,72.98,high,low,5,namecheap,,,23/09/2026 11:12
+f412c505-ca5c-473d-8787-47f00cc110af,bethe.camera,available,61.98,72.98,medium,low,5,namecheap,,,23/09/2026 11:12
 ab01b96c-8138-40e8-86ff-c7fa75b60e7b,coated.camera,available,21.99,75.99,medium,low,6,name.com,,,12/08/2026 14:14
 5a85e50c-5f17-42a9-8a13-ff5bcb45901c,aave.camera,available,58.99,58.99,medium,low,4,namesilo,,,16/09/2026 13:38
 b0f64460-3f1c-4f3a-b3f0-004a91c5e925,felted.camera,available,21.99,75.99,medium,low,6,name.com,,,18/08/2026 01:00
@@ -309,10 +315,10 @@ f0c39c40-2675-49cc-a04e-c4d78002fe1a,reliably.camera,available,58.99,58.99,high,
 15b9c73e-4e6d-439a-ad96-941fb589cbb8,cognitive.camera,available,21.99,75.99,high,low,9,name.com,,,12/08/2026 15:58
 3ff12bec-03d0-4f6b-a36f-f959f9b9df14,travellers.camera,available,61.98,72.98,medium,low,10,namecheap,,,17/09/2026 22:15
 a7c06e0e-6308-4ddc-8728-b105ad0dfdc8,gene.camera,available,21.99,,high,low,4,name.com,,,
-c26b401d-d6f4-4b49-ac2b-a8b62a041f4d,hump.camera,available,58.99,58.99,high,low,4,namesilo,,,24/09/2026 11:03
+c26b401d-d6f4-4b49-ac2b-a8b62a041f4d,hump.camera,available,58.99,58.99,medium,low,4,namesilo,,,24/09/2026 11:03
 dc932bf9-8c5d-4aa4-8588-f2416fb2be9b,ambled.camera,available,61.98,72.98,medium,low,6,namecheap,,,20/09/2026 05:58
-2befe553-368f-4693-a4d2-9a628ad5081d,rested.camera,available,21.99,,high,low,6,name.com,,,
-f1c02a71-ee43-4843-bc5e-0947b849fb8d,solvable.camera,available,21.99,,high,low,8,name.com,,,
+2befe553-368f-4693-a4d2-9a628ad5081d,rested.camera,available,58.99,58.99,high,low,6,namesilo,,,27/09/2026 12:50
+f1c02a71-ee43-4843-bc5e-0947b849fb8d,solvable.camera,available,58.99,58.99,high,low,8,namesilo,,,27/09/2026 12:17
 d8ea3c19-3b33-411d-a8b7-ee6687e81fc1,vagus.camera,available,58.99,58.99,medium,low,5,namesilo,,,08/09/2026 22:09
 1cdc067e-1cb2-44c1-bdfe-e87ef1c151da,baedeker.camera,available,58.99,58.99,medium,low,8,namesilo,,,21/09/2026 17:22
 1c4acc32-95bf-4175-a9a3-9891c3490338,enumerate.camera,available,58.99,58.99,medium,low,9,namesilo,,,03/09/2026 22:58
@@ -323,23 +329,26 @@ dad86da1-e1fc-45ff-b612-9034925a0316,esteem.camera,available,21.99,,high,low,6,n
 af12f58a-1c06-4c49-a128-fbce2d7e2e6d,scorching.camera,available,58.99,58.99,high,low,9,namesilo,,,09/09/2026 23:31
 68789ad9-64f4-49d4-9296-29c3cf02f1ae,thence.camera,available,58.99,58.99,medium,low,6,namesilo,,,15/09/2026 00:13
 a248ea9d-bff4-4a8b-ba75-190f008c20d0,wassermann.camera,available,58.99,58.99,high,low,10,namesilo,,,21/09/2026 03:49
-a1206f90-1386-4269-9ee5-65ded7bd5de2,glib.camera,available,21.99,75.99,high,low,4,name.com,,,20/08/2026 14:26
+a1206f90-1386-4269-9ee5-65ded7bd5de2,glib.camera,available,21.99,75.99,medium,low,4,name.com,,,20/08/2026 14:26
 f8c2f69d-eb02-4fb1-a7d1-3eeee84fe3ad,pacemaker.camera,available,61.98,72.98,high,low,9,namecheap,,,20/09/2026 11:42
 d6cb28c8-2aac-4b4f-a3c4-faeb869fc3d0,commix.camera,available,21.99,75.99,medium,low,6,name.com,,,
 9ba8f27b-8831-49a2-8890-180edcba7165,adapted.camera,available,58.99,58.99,high,low,7,namesilo,,,21/09/2026 17:02
 3e494197-974a-49ba-9d82-fbcc7ed76fa3,dyslexic.camera,available,21.99,75.99,medium,low,8,name.com,,,14/08/2026 22:03
-5ae05655-1ba4-4f25-a45b-e3097563c5d0,queenly.camera,available,58.99,58.99,high,low,7,namesilo,,,09/09/2026 07:52
+5ae05655-1ba4-4f25-a45b-e3097563c5d0,queenly.camera,available,58.99,58.99,medium,low,7,namesilo,,,09/09/2026 07:52
+a1715688-a57c-4336-aece-2676e5409349,journalist.camera,available,46.78,46.78,high,low,10,spaceship,,,27/09/2026 12:59
 d5cee68f-d2b5-4d6a-b781-2f64b970bf2c,hammy.camera,available,21.99,75.99,medium,low,5,name.com,,,20/08/2026 23:05
 0b61bffc-d4ef-4307-a709-ee89d145312e,burning.camera,available,58.99,58.99,high,low,7,namesilo,,,23/09/2026 11:45
+e12a2316-f30b-48b3-97bf-e04ff6f8ea30,shrewsbury.camera,available,11.84,46.86,medium,low,10,porkbun,,,27/09/2026 19:32
 02bf66fb-0fe5-496a-9700-d6d7b97f19d9,sequential.camera,available,58.99,58.99,high,low,10,namesilo,,,10/09/2026 04:27
 d412780c-8b22-42fa-882a-4c84f6065c18,decision.camera,available,58.99,58.99,high,low,8,namesilo,,,24/09/2026 17:06
 02c262e9-dac9-4b71-9e8b-42e80e63cfeb,chimpanzee.camera,available,58.99,58.99,high,low,10,namesilo,,,24/09/2026 14:39
 eca3c43c-0cf1-4e44-95d1-0615abe1ff63,agrigento.camera,available,58.99,58.99,medium,low,9,namesilo,,,17/09/2026 02:44
 901d58d3-ad93-43b3-821d-e87ac29dfb9a,tortrix.camera,available,58.99,58.99,medium,low,7,namesilo,,,20/09/2026 05:04
+182f17c3-af66-439f-8e6a-e39c081adb5e,philosophy.camera,available,46.78,46.78,high,low,10,spaceship,,,27/09/2026 13:03
 a5d1f9bd-a52c-4490-8e7a-ef3241addd81,retreat.camera,available,21.99,,high,low,7,name.com,,,
 edc10074-8dd5-4be8-a232-5ce8fa753722,strip.camera,available,58.99,58.99,high,low,5,namesilo,,,24/09/2026 05:53
 dd7c4f72-1d51-4f72-ad48-66fa564c0aff,standon.camera,available,21.99,,medium,low,8,name.com,,,
-70c399ed-1d27-4b0b-9415-a995cab45e4c,endocrine.camera,available,21.99,75.99,high,low,9,name.com,,,17/08/2026 01:00
+70c399ed-1d27-4b0b-9415-a995cab45e4c,endocrine.camera,available,21.99,75.99,medium,low,9,name.com,,,17/08/2026 01:00
 ee7e730d-af21-4bd7-a4b0-b731b6c40504,lxvii.camera,available,21.99,75.99,medium,low,5,name.com,,,
 b6577fe2-07f7-4dd0-9d71-360b1a9e0aa6,belted.camera,available,21.99,75.99,medium,low,6,name.com,,,09/08/2026 14:02
 2d6a0467-7592-4fa8-a1db-3a39f9fd0263,headquarters.camera,available,58.99,58.99,high,low,12,namesilo,,,27/09/2026 02:02
@@ -360,7 +369,7 @@ df7e87c8-fb1c-4f84-8f1b-48b048607831,ensure.camera,available,21.99,,high,low,6,n
 f7cfd092-0a52-4c36-9902-d2ca8535a948,unborn.camera,available,58.99,58.99,high,low,6,namesilo,,,12/09/2026 02:23
 1724de8e-f069-4c15-b43a-ddee2ee550d9,unmapped.camera,available,21.99,75.99,medium,low,8,name.com,,,12/08/2026 02:55
 4b820209-f6df-41eb-853e-34ae86409b22,obscene.camera,available,21.99,75.99,high,low,7,name.com,,,
-bc7cd13f-6380-4b71-b110-982436f246e6,belfry.camera,available,58.99,58.99,high,low,6,namesilo,,,23/09/2026 04:56
+bc7cd13f-6380-4b71-b110-982436f246e6,belfry.camera,available,58.99,58.99,medium,low,6,namesilo,,,23/09/2026 04:56
 df0e0ee2-d65c-4d7e-9c1a-1cb26c076c96,treatment.camera,available,58.99,58.99,high,low,9,namesilo,,,23/09/2026 08:47
 2635f560-98d7-4940-84e1-67d30d72892e,allsorts.camera,available,61.98,72.98,low,low,9,namecheap,,,16/09/2026 05:53
 b787b4d6-110b-4361-802f-1a214e142b08,uncurbed.camera,available,58.99,58.99,medium,low,8,namesilo,,,12/09/2026 04:34
@@ -371,7 +380,7 @@ b787b4d6-110b-4361-802f-1a214e142b08,uncurbed.camera,available,58.99,58.99,mediu
 a8a78a2c-de53-4f00-b7ec-24d75192ed3b,rafts.camera,available,58.99,58.99,high,low,5,namesilo,,,14/09/2026 23:26
 14c1f863-352a-448c-86ba-04eaa9a0ba73,dumas.camera,available,58.99,58.99,medium,low,5,namesilo,,,18/09/2026 05:57
 8c622189-edd8-440b-af0d-994751e343e2,blister.camera,available,61.98,72.98,high,low,7,namecheap,,,24/09/2026 05:20
-0a281949-e343-4dcd-bb62-625f7963f073,veer.camera,available,21.99,,high,low,4,name.com,,,
+0a281949-e343-4dcd-bb62-625f7963f073,veer.camera,available,46.78,46.78,high,low,4,spaceship,,,27/09/2026 21:02
 099eb65f-3846-4a32-b13e-371fb95e9969,broody.camera,available,21.99,75.99,medium,low,6,name.com,,,11/08/2026 05:54
 fca550c9-8097-40c2-b061-f1276ea50aba,harijan.camera,available,58.99,58.99,medium,low,7,namesilo,,,12/09/2026 21:38
 0b295de3-1bc0-481c-affb-4be584ecddb3,browser.camera,available,21.99,,high,low,7,name.com,,,
@@ -392,15 +401,16 @@ e35176e0-d839-4b75-b320-8b8a82845758,baseball.camera,available,21.99,,high,low,8
 87f44c5f-5e51-4f66-ab17-882c38d20ae2,lucius.camera,available,58.99,58.99,high,low,6,namesilo,,,25/09/2026 15:11
 698cd258-1241-46b9-837e-2c2c38520696,roger.camera,available,21.99,,high,low,5,name.com,,,
 61ef431f-c8d5-4ee8-b810-e4de40924e53,flatulent.camera,available,21.99,75.99,medium,low,9,name.com,,,12/08/2026 16:34
-0cc1caa6-9603-4186-868d-c7d038c78c52,salt.camera,available,21.99,,high,low,4,name.com,,,
+0cc1caa6-9603-4186-868d-c7d038c78c52,salt.camera,available,46.78,46.78,high,medium,4,spaceship,,,27/09/2026 17:50
 875fa0cd-b825-4c6a-af66-7fdd17166de3,circuitous.camera,available,21.99,75.99,medium,low,10,name.com,,,12/08/2026 08:18
 1bbaad5e-34a6-46df-b584-20d822f02671,abdias.camera,available,61.98,72.98,medium,low,6,namecheap,,,16/09/2026 14:41
 ec102ce7-f65d-4ba5-8e8b-468cfaa36856,throwback.camera,available,58.99,58.99,high,low,9,namesilo,,,11/09/2026 15:00
 b01fd063-73cc-41ee-9118-86a8173c33fd,welles.camera,available,21.99,75.99,high,low,6,name.com,,,27/09/2026 04:13
 c42c7781-cb94-49ad-9191-9b363336622f,opalescent.camera,available,58.99,58.99,medium,low,10,namesilo,,,04/09/2026 15:43
 ac7b5800-6748-43d8-acc2-7f2bf9712161,recap.camera,available,21.99,,high,low,5,name.com,,,
+e0a797ca-db67-4c05-8379-f76a966b4fcf,webster.camera,available,45.2,45.2,high,low,7,cloudflare,,,28/09/2026 01:45
 b8917a7e-1d3d-435a-b42c-721c8f82958e,marble.camera,available,21.99,,high,low,6,name.com,,,
-d6f5d6f2-450c-482d-bdf4-5a59bf3fce1d,shelters.camera,available,58.99,58.99,high,low,8,namesilo,,,20/09/2026 23:17
+d6f5d6f2-450c-482d-bdf4-5a59bf3fce1d,shelters.camera,available,58.99,58.99,medium,low,8,namesilo,,,20/09/2026 23:17
 c933d886-f2b9-4643-b448-a9bd8f0a5cf5,tillers.camera,available,58.99,58.99,medium,low,7,namesilo,,,20/09/2026 14:06
 8635504d-6559-42ae-8d3b-be8f7e3ead57,windsock.camera,available,61.98,72.98,medium,low,8,namecheap,,,17/09/2026 21:40
 9d945481-41a4-4427-9fa8-ca55b8f6e647,bendable.camera,available,21.99,75.99,medium,low,8,name.com,,,09/08/2026 14:07
@@ -464,7 +474,7 @@ b16bdaa2-6cbb-4643-abd1-5bae7dcbefb4,latino.camera,available,21.99,75.99,high,lo
 392bb4ba-b298-4b55-ae31-4b0c38557456,joke.camera,available,58.99,58.99,high,low,4,namesilo,,,22/09/2026 06:20
 7136f9c0-26ac-42cb-9617-ac85a7ded5ee,fleeting.camera,available,21.99,75.99,high,low,8,name.com,,,18/08/2026 07:51
 24a1120a-a22c-4868-ab0b-cacb20f410cb,steroids.camera,available,61.98,72.98,medium,low,8,namecheap,,,19/09/2026 19:38
-3de6c2c0-96ce-4785-8e1a-0cf525bf879a,risen.camera,available,21.99,,high,low,5,name.com,,,
+3de6c2c0-96ce-4785-8e1a-0cf525bf879a,risen.camera,available,46.78,46.78,high,low,5,spaceship,,,27/09/2026 15:29
 d0f2fd70-f5e3-40cd-89b3-a93e19e80840,aeonium.camera,available,58.99,58.99,medium,low,7,namesilo,,,17/09/2026 12:40
 f14e978c-f0c9-4001-8231-b9482abbde91,moisture.camera,available,58.99,58.99,high,low,8,namesilo,,,13/09/2026 11:06
 132582d9-a6ec-4999-915f-7328215233fd,jawed.camera,available,21.99,75.99,medium,low,5,name.com,,,22/08/2026 12:32
@@ -483,28 +493,28 @@ b3ef0a11-2c52-4bd9-911b-78f0fcca276d,backspacer.camera,available,58.99,58.99,med
 1228b2e1-1a7e-4ec1-90e5-1e85713734b1,benumb.camera,available,58.99,58.99,medium,low,6,namesilo,,,03/09/2026 22:47
 e9f24406-df66-478b-8269-ae4ff95425dd,camouflage.camera,available,21.99,,high,low,10,name.com,,,
 d75c7bb2-7870-4589-b84e-8960b2ed4ceb,forward.camera,available,61.98,72.98,high,medium,7,namecheap,,,21/09/2026 20:55
-67e6505f-c023-4602-af6e-38efda9e94d5,entrant.camera,available,21.99,75.99,high,low,7,name.com,,,18/08/2026 07:36
+67e6505f-c023-4602-af6e-38efda9e94d5,entrant.camera,available,21.99,75.99,medium,low,7,name.com,,,18/08/2026 07:36
 c41fbe93-3ce2-49a6-a607-b353aa74b47a,tutu.camera,available,58.99,58.99,high,low,4,namesilo,,,21/09/2026 22:53
 02fa26bc-32e7-4503-b367-4c44f304286f,maculate.camera,available,21.99,75.99,medium,low,8,name.com,,,13/08/2026 23:26
-77f052f4-19bc-4687-962f-2ad089694391,starting.camera,available,21.99,,high,low,8,name.com,,,
+77f052f4-19bc-4687-962f-2ad089694391,starting.camera,available,58.99,58.99,high,low,8,namesilo,,,28/09/2026 00:44
 03760a86-d1bc-4f0d-a84e-1127f498b312,beshrew.camera,available,21.99,75.99,medium,low,7,name.com,,,13/08/2026 16:19
 5b63edf2-89c2-4c2d-8520-57650cd496a8,peking.camera,available,58.99,58.99,high,low,6,namesilo,,,23/09/2026 04:13
-0f8b19bb-b4cd-452a-9b02-99330f0cf09a,archival.camera,available,21.99,75.99,high,low,8,name.com,,,06/08/2026 15:53
+0f8b19bb-b4cd-452a-9b02-99330f0cf09a,archival.camera,available,21.99,75.99,medium,low,8,name.com,,,06/08/2026 15:53
 53498fc4-3201-463f-ab76-799a671d46b0,leprous.camera,available,21.99,75.99,medium,low,7,name.com,,,23/08/2026 00:12
 12041d87-6bed-4e68-9fba-2888fe3f0d0e,squeezable.camera,available,58.99,58.99,medium,low,10,namesilo,,,10/09/2026 17:41
-91ba2b97-e5b2-4ee2-aa63-c86c82ca7ac5,gifts.camera,premium,520,520,high,low,5,namecheap,,,25/09/2026 17:25
+91ba2b97-e5b2-4ee2-aa63-c86c82ca7ac5,gifts.camera,premium,520,520,medium,low,5,namecheap,,,25/09/2026 17:25
 d40286f8-0a11-421e-9ca9-bfdc8353e3e9,debile.camera,available,21.99,75.99,medium,low,6,name.com,,,13/08/2026 20:28
 d697da3d-ff5b-4bcb-8b04-f19bab7d289b,autodidact.camera,available,58.99,58.99,high,low,10,namesilo,,,21/09/2026 06:15
-65319d69-5be8-4584-881c-2f79b01a6d68,poetically.camera,available,61.98,72.98,high,low,10,namecheap,,,15/09/2026 20:51
+65319d69-5be8-4584-881c-2f79b01a6d68,poetically.camera,available,61.98,72.98,medium,low,10,namecheap,,,15/09/2026 20:51
 5e01783a-1b0a-4e4b-aa57-931f15313ca6,larghetto.camera,available,21.99,75.99,medium,low,9,name.com,,,22/08/2026 19:57
 e40c5c8f-9f7c-457c-ac17-6b6ec15cb20b,flu.camera,available,21.99,,high,low,3,name.com,,,
 0cf7d7db-4085-42e0-9df5-c6ad13775aab,skim.camera,available,58.99,58.99,high,low,4,namesilo,,,10/09/2026 09:32
 00d46fc7-70bb-4db7-ad3c-e95c04e0e319,mixologist.camera,available,58.99,58.99,medium,low,10,namesilo,,,22/09/2026 06:27
-e5f8f9d1-5fab-4466-b2ba-2e5db34ef8dd,umbilicus.camera,available,61.98,72.98,high,low,9,namecheap,,,23/09/2026 06:37
+e5f8f9d1-5fab-4466-b2ba-2e5db34ef8dd,umbilicus.camera,available,61.98,72.98,medium,low,9,namecheap,,,23/09/2026 06:37
 4b698b50-e6c2-4abb-ae61-0868c9b9377d,likeable.camera,available,21.99,75.99,high,low,8,name.com,,,23/08/2026 06:11
 103f8376-0452-4d1f-9091-39e0ef798126,craftily.camera,available,58.99,58.99,medium,low,8,namesilo,,,14/09/2026 09:00
 69170116-5c13-40b2-a8ff-4535ad9eb418,owing.camera,available,21.99,,medium,low,5,name.com,,,
-dc07832b-2498-4426-b913-d708038805f9,duly.camera,available,21.99,75.99,high,low,4,name.com,,,14/09/2026 14:47
+dc07832b-2498-4426-b913-d708038805f9,duly.camera,available,21.99,75.99,medium,low,4,name.com,,,14/09/2026 14:47
 e58c7640-a0c4-4803-8659-955e06150884,glad.camera,available,61.98,72.98,high,low,4,namecheap,,,22/09/2026 18:28
 d853f9cd-43fc-4e87-af44-810e721694fb,hole.camera,available,21.99,,high,low,4,name.com,,,
 f653744c-2f1c-4fb4-981a-bfafcfc1b1a5,pseud.camera,available,58.99,58.99,medium,low,5,namesilo,,,09/09/2026 05:04
@@ -521,23 +531,25 @@ d98c651c-cf4d-4f7b-9597-6dc5285b05e1,bern.camera,available,21.99,,high,low,4,nam
 3a3b5e60-eab4-4510-90da-21d533bcf1c6,foppish.camera,available,21.99,75.99,medium,low,7,name.com,,,13/08/2026 17:05
 72acb0bc-b9ec-4fcd-85e9-51694c14ab50,antic.camera,available,21.99,75.99,high,low,5,name.com,,,
 e911f105-42e3-4e85-9f1f-e3ea63cbf07e,styleless.camera,available,58.99,58.99,low,low,9,namesilo,,,10/09/2026 23:15
-eebf0fb3-31a0-4469-b482-406140c91260,laudable.camera,available,21.99,75.99,high,low,8,name.com,,,06/08/2026 07:01
+eebf0fb3-31a0-4469-b482-406140c91260,laudable.camera,available,21.99,75.99,medium,low,8,name.com,,,06/08/2026 07:01
 edbd6971-ac0d-4e6d-a45a-0caad78cc8f6,searches.camera,available,58.99,58.99,medium,low,8,namesilo,,,20/09/2026 07:30
 cb9a0439-3862-4e19-b6e9-8cf3170ef848,taurus.camera,available,58.99,58.99,high,low,6,namesilo,,,19/09/2026 04:39
 cbc3f5f8-f828-4745-a20e-d77881bc13b0,uncomplicated.camera,available,21.99,,high,low,13,name.com,,,
+1269e99a-9289-46bb-92b7-5eca359e10eb,strikes.camera,available,58.99,58.99,medium,low,7,namesilo,,,27/09/2026 09:13
 3cec687b-8a3e-4a38-b3e0-a59024a10a7d,chainlike.camera,available,21.99,75.99,medium,low,9,name.com,,,11/08/2026 21:34
 cabc6384-c869-4e14-8e53-9d3b3ef7d16f,earthly.camera,available,21.99,75.99,high,low,7,name.com,,,14/08/2026 22:42
 a3e7a830-ae2d-4528-8971-83942dada7cc,alienation.camera,available,58.99,58.99,high,low,10,namesilo,,,18/09/2026 07:35
-0850aa8c-9cfb-4ebc-b9b1-bd641c251730,tailed.camera,available,58.99,58.99,high,low,6,namesilo,,,11/09/2026 07:08
+0850aa8c-9cfb-4ebc-b9b1-bd641c251730,tailed.camera,available,58.99,58.99,medium,low,6,namesilo,,,11/09/2026 07:08
 660f52b2-3b8b-4c74-b802-2571567748a7,streets.camera,available,21.99,,high,low,7,name.com,,,
 38a66190-11e2-4bff-b4d8-4fa67dd5c10a,keister.camera,available,21.99,75.99,low,low,7,name.com,,,09/08/2026 11:08
 9b6fc43f-0bc2-4d3c-94ae-02b1469cd907,upstanding.camera,available,58.99,58.99,high,low,10,namesilo,,,12/09/2026 23:22
 c5da8caf-a807-4d93-b95a-701517f69d01,greylag.camera,available,58.99,58.99,medium,low,7,namesilo,,,19/09/2026 12:07
-a1ffb215-9b19-4a65-8f92-e2ab83cd52c3,octal.camera,available,58.99,58.99,high,low,5,namesilo,,,04/09/2026 00:39
+a1ffb215-9b19-4a65-8f92-e2ab83cd52c3,octal.camera,available,58.99,58.99,medium,low,5,namesilo,,,04/09/2026 00:39
 d24c6bc0-e498-4f45-945a-cb8870b61486,beehive.camera,available,58.99,58.99,high,low,7,namesilo,,,23/09/2026 01:16
 4fa32db0-996d-45d1-96e9-5b6ac55c8b9d,disaster.camera,available,58.99,58.99,high,low,8,namesilo,,,24/09/2026 11:38
 471acf9a-48b6-4fe1-aecc-e89f29d5ef17,autopilot.camera,available,58.99,58.99,high,low,9,namesilo,,,21/09/2026 06:54
 e77490b2-9a37-4a41-b9eb-aca6bbbda21f,arbutus.camera,available,58.99,58.99,medium,low,7,namesilo,,,20/09/2026 01:01
+3fdaec25-62ae-42c0-bde9-255eeef3d8c7,farewell.camera,available,89.99,89.99,high,low,8,godaddy,,,28/09/2026 01:53
 69c7b4a4-e1d7-4c02-bb9a-d746382c1ca1,covalent.camera,available,21.99,75.99,high,low,8,name.com,,,13/08/2026 04:03
 8b41b5de-bb81-4441-b61c-0569e59991a3,alcoves.camera,available,58.99,58.99,low,low,7,namesilo,,,20/09/2026 22:35
 49407cd9-a543-461b-b096-8f3d4c103e98,alienate.camera,available,21.99,75.99,medium,low,8,name.com,,,
@@ -555,7 +567,7 @@ be271656-23cc-437b-bedb-ef0037217451,colleagues.camera,available,58.99,58.99,med
 f2fdbbb7-5076-45b4-b084-f615e5a0cabd,almoner.camera,available,58.99,58.99,medium,low,7,namesilo,,,18/09/2026 12:40
 492762fd-dd15-4cd2-90ed-cad626cbebc3,prominent.camera,available,58.99,58.99,high,low,9,namesilo,,,27/09/2026 07:23
 7c69825c-23ed-4dd9-9078-5fefd9902a5d,leal.camera,available,21.99,75.99,medium,low,4,name.com,,,22/08/2026 22:03
-e9b06ac4-e5eb-41c7-9c76-6583d952e622,emboss.camera,available,21.99,75.99,high,low,6,name.com,,,10/08/2026 20:42
+e9b06ac4-e5eb-41c7-9c76-6583d952e622,emboss.camera,available,21.99,75.99,medium,low,6,name.com,,,10/08/2026 20:42
 4625851d-42f2-4fb3-94d2-1522cd0d8a5b,aliens.camera,available,61.98,72.98,high,low,6,namecheap,,,19/09/2026 19:25
 44cfbeff-d4ba-41af-8d9d-3aefb6a7a070,affairs.camera,available,58.99,58.99,high,low,7,namesilo,,,17/09/2026 14:09
 e42cc67a-b3c5-48e5-ae2a-f94b4266ed09,androgyny.camera,available,58.99,58.99,medium,low,9,namesilo,,,19/09/2026 04:54
@@ -577,7 +589,7 @@ e8f5e868-ede1-42a0-ad05-ca03c5694007,arizonan.camera,available,58.99,58.99,mediu
 7d1431e8-0d01-4143-b40d-08f1f9cacc4f,abm.camera,available,61.98,72.98,high,low,3,namecheap,,,16/09/2026 16:15
 ca1c3f65-742e-4f26-87b7-ba0123386801,pacifist.camera,available,58.99,58.99,high,low,8,namesilo,,,04/09/2026 22:35
 1e9cbafd-6db7-4a8b-9477-91d23874ffb7,blunted.camera,available,21.99,75.99,medium,low,7,name.com,,,10/08/2026 16:17
-471f6b80-1661-43e1-abb1-ff59a28a3552,devil.camera,available,58.99,58.99,high,low,5,namesilo,,,23/09/2026 01:20
+471f6b80-1661-43e1-abb1-ff59a28a3552,devil.camera,available,58.99,58.99,medium,low,5,namesilo,,,23/09/2026 01:20
 5b1e519f-2b00-4542-9acb-31a31b5ed605,doctorial.camera,available,21.99,75.99,medium,low,9,name.com,,,14/08/2026 14:21
 6d509135-28a9-4660-8c11-7ac71758ed91,training.camera,available,58.99,58.99,high,low,8,namesilo,,,25/09/2026 03:18
 e2b1a7ac-a1ab-44f0-8acb-c14dc4bef46d,acquiring.camera,available,58.99,58.99,high,low,9,namesilo,,,17/09/2026 02:42
@@ -588,10 +600,11 @@ a54f1014-dd89-4f4b-b79c-00ca4f83440b,liaison.camera,available,58.99,58.99,high,l
 35797fd8-a262-451e-9e57-9b51739e06fa,centroidal.camera,available,21.99,75.99,medium,low,10,name.com,,,12/08/2026 00:18
 ff73cc86-cfd6-40e2-98ea-ae38c49afe4a,cards.camera,available,58.99,58.99,high,low,5,namesilo,,,24/09/2026 12:49
 52a02dd8-fbd0-449e-abc6-fa532f9ba6c1,advisory.camera,available,21.99,75.99,high,low,8,name.com,,,
-7e1ff2b6-896b-46ee-ac48-0a212cbf8e4a,don.camera,available,21.99,,high,low,3,name.com,,,
+7e1ff2b6-896b-46ee-ac48-0a212cbf8e4a,don.camera,available,58.99,58.99,high,low,3,namesilo,,,27/09/2026 08:52
 7d9cd1f3-14d4-4094-adfd-3486acaabc68,eager.camera,available,58.99,58.99,high,low,5,namesilo,,,24/09/2026 12:48
 b2543ee3-6785-4728-b0ac-c4491b0cd2c6,enforced.camera,available,21.99,75.99,medium,low,8,name.com,,,17/08/2026 07:32
 39abd5b6-4316-488d-8f6a-a4d140dfda68,thither.camera,available,58.99,58.99,medium,low,7,namesilo,,,16/09/2026 08:57
+b3c61e14-e48a-4668-b888-ca641bc2d5f3,terence.camera,available,45.2,45.2,medium,low,7,cloudflare,,,27/09/2026 15:27
 2d660f8c-edd8-4b2a-8dab-b00818fdb239,interred.camera,available,21.99,75.99,medium,low,8,name.com,,,11/08/2026 10:36
 6b189580-cdec-48d0-b0d9-33f20bf634c8,polio.camera,available,58.99,58.99,medium,low,5,namesilo,,,17/09/2026 05:40
 453fafae-a45f-4d2d-9ea4-1794c5df0380,inured.camera,available,21.99,75.99,medium,low,6,name.com,,,17/08/2026 10:01
@@ -632,11 +645,12 @@ a1582943-1076-45a4-865a-e9121ef00166,redwing.camera,available,58.99,58.99,high,l
 41c0fd3b-f231-4358-a25d-8cbc2b639a39,pliant.camera,available,21.99,75.99,medium,low,6,name.com,,,09/08/2026 14:11
 180883e8-f68c-4c00-b154-decf35cd65fe,execution.camera,available,21.99,,high,low,9,name.com,,,
 2fc4d4d0-a192-45be-a908-4e47b13548a3,bedroll.camera,available,61.98,72.98,high,low,7,namecheap,,,22/09/2026 23:33
-53bc6d9d-f360-48eb-a964-0d89fd065654,begonia.camera,available,58.99,58.99,high,low,7,namesilo,,,23/09/2026 02:28
+53bc6d9d-f360-48eb-a964-0d89fd065654,begonia.camera,available,58.99,58.99,medium,low,7,namesilo,,,23/09/2026 02:28
 c9d62458-5a1f-4d25-9ef2-213fc7bf9809,margosa.camera,available,58.99,58.99,medium,low,7,namesilo,,,20/09/2026 05:43
 97bdc207-197d-467d-aeb3-fd6686a5eeda,dotcom.camera,available,21.99,75.99,high,low,7,name.com,,,14/08/2026 16:26
 c24134fa-9123-45a6-ac6a-da00e11481b4,peterson.camera,available,58.99,58.99,high,low,8,namesilo,,,25/09/2026 17:40
 bb7af5e2-ac92-4918-a272-f64e1911cc86,superhero.camera,available,21.99,75.99,high,low,9,name.com,,,16/09/2026 20:24
+bf9bd51b-5d00-468b-8441-f84ba76b7e48,prey.camera,available,11.99,48.37,high,low,4,dynadot,,,27/09/2026 13:29
 c004c4a3-e504-4268-bfd1-5f18e97f5c1c,fissure.camera,available,21.99,75.99,high,low,7,name.com,,,13/08/2026 04:18
 41a669be-47d2-430b-a70b-ee32945f7e1b,egoistic.camera,available,21.99,75.99,medium,low,8,name.com,,,15/08/2026 18:54
 366566ab-24f4-4d64-863c-befb6989f6e7,agromania.camera,available,61.98,72.98,medium,low,9,namecheap,,,17/09/2026 19:38
@@ -658,11 +672,12 @@ f8f4af7f-0df5-4e34-a896-6ebaf81ff3e4,dollars.camera,available,61.98,72.98,high,l
 8262eeef-4956-4f5f-bfb6-0e20ce37f10c,arkansan.camera,available,58.99,58.99,medium,low,8,namesilo,,,20/09/2026 06:11
 87de1b19-0b6f-4fd1-bfe0-149c3d72f949,bahai.camera,available,21.99,75.99,high,low,5,name.com,,,08/08/2026 08:27
 effdfd2b-0213-4734-949c-d0b425af5ee5,fatten.camera,available,21.99,75.99,medium,low,6,name.com,,,17/08/2026 23:09
-37dc5b66-d9dd-47ce-ac2f-d60d6aa83729,talus.camera,available,58.99,58.99,high,low,5,namesilo,,,19/09/2026 09:46
+37dc5b66-d9dd-47ce-ac2f-d60d6aa83729,talus.camera,available,58.99,58.99,medium,low,5,namesilo,,,19/09/2026 09:46
 09df6e48-02bb-4d8c-adf9-1189c1b77cda,panicked.camera,available,58.99,58.99,medium,low,8,namesilo,,,05/09/2026 00:57
 9140042a-6cfe-4fd0-ba43-ff1ea342732e,unsalted.camera,available,58.99,58.99,medium,low,8,namesilo,,,12/09/2026 18:45
 8fcd8862-5fe9-4618-9bdf-5b654c1c0a12,dissembler.camera,available,61.98,72.98,medium,low,10,namecheap,,,08/09/2026 19:10
 a60821df-ad43-4eb1-9a14-c8fcada8c968,dim.camera,available,21.99,75.99,high,low,3,name.com,,,10/08/2026 13:58
+8a802708-dcd7-4299-b84a-b83e6ca76de8,samson.camera,available,58.99,58.99,high,low,6,namesilo,,,28/09/2026 01:08
 5711cd26-f03a-4f68-b4d7-75b6a2cd4fd0,cxv.camera,available,21.99,75.99,high,low,3,name.com,,,
 e1d784fd-1e60-4a05-9850-d24774daa7ea,constantly.camera,available,21.99,,high,low,10,name.com,,,
 73a5c745-41b6-4858-9779-8453fa258d70,cleverly.camera,available,21.99,,high,low,8,name.com,,,
@@ -684,13 +699,15 @@ e79759dc-8e2a-4883-b96a-f9632f0fc2b6,genes.camera,available,58.99,58.99,medium,l
 9a58078e-6217-414e-a862-081bba2c024c,undefeated.camera,available,21.99,75.99,high,low,10,name.com,,,12/09/2026 07:12
 f075dfc1-1011-45b3-9538-c60a0def66b9,doug.camera,available,58.99,58.99,high,low,4,namesilo,,,25/09/2026 13:24
 e07c8839-3aaa-4c31-b426-7088554bb5f2,antiphony.camera,available,61.98,72.98,medium,low,9,namecheap,,,19/09/2026 14:57
-52429553-f6ae-4daa-ba40-de05f801bcd0,torrid.camera,available,21.99,75.99,high,low,6,name.com,,,06/08/2026 16:35
+52429553-f6ae-4daa-ba40-de05f801bcd0,torrid.camera,available,21.99,75.99,medium,low,6,name.com,,,06/08/2026 16:35
 c8cb8725-d893-4a1e-a74e-905401571dfb,comics.camera,available,21.99,,high,low,6,name.com,,,
+dfa2a14f-4fa0-4f90-920f-4a84f9329539,harassment.camera,available,45.2,45.2,medium,low,10,cloudflare,,,27/09/2026 13:56
 978ce7d5-d606-469a-84f0-3ea6b8b85492,ironic.camera,available,61.98,72.98,high,low,6,namecheap,,,25/09/2026 11:21
 243548a8-2de6-413e-9ce7-a569379a01a3,alcibiades.camera,available,61.98,72.98,medium,low,10,namecheap,,,18/09/2026 04:00
 5494e16b-718b-48ce-9d76-a17fd69031c8,banzai.camera,available,58.99,58.99,high,low,6,namesilo,,,22/09/2026 03:19
 0d444491-68f7-472e-8200-5ba13c4e3c9e,unstressed.camera,available,58.99,58.99,medium,low,10,namesilo,,,12/09/2026 20:37
 05e81bc9-2a36-4593-bbb8-a92bc364f3bf,feb.camera,available,21.99,,high,low,3,name.com,,,
+5bfc283d-2421-4c24-afc1-3bc5dcc58d96,kellogg.camera,available,61.98,72.98,high,low,7,namecheap,,,27/09/2026 14:32
 2545fc66-d3d1-45c8-a277-2684303025b3,claudia.camera,available,58.99,58.99,high,low,7,namesilo,,,25/09/2026 13:43
 d752b4dc-de9c-4957-9f73-991b22fb0b06,safer.camera,available,58.99,58.99,medium,low,5,namesilo,,,27/09/2026 03:09
 3efe7558-8be3-4cb2-af35-d867213be7da,logically.camera,available,58.99,58.99,high,low,9,namesilo,,,15/09/2026 12:41
@@ -713,16 +730,16 @@ f358a26a-71a8-4e25-9e28-65e52abd0355,saman.camera,available,58.99,58.99,high,low
 0935c46d-ab24-4297-9de7-63e90583088a,ideal.camera,available,58.99,58.99,high,low,5,namesilo,,,25/09/2026 07:17
 128a0b2c-6e28-420a-b26d-a63a1d5beac2,billyho.camera,available,58.99,58.99,medium,low,8,namesilo,,,18/09/2026 09:17
 fca7a69a-3f7a-4993-9b15-3a7d1a0d07dc,global.camera,resell,,,high,medium,6,"GoDaddy.com, LLC",12/02/2014 16:00,12/02/2027 16:00,26/09/2026 06:24
-0b4d2f7e-f470-4cfa-a5a8-3648f4021fa1,amoeba.camera,available,58.99,58.99,high,low,6,namesilo,,,18/09/2026 17:41
+0b4d2f7e-f470-4cfa-a5a8-3648f4021fa1,amoeba.camera,available,58.99,58.99,medium,low,6,namesilo,,,18/09/2026 17:41
 28f3f625-bd21-41f1-b2b4-8bc7e9c4e84c,protestant.camera,available,58.99,58.99,high,low,10,namesilo,,,09/09/2026 04:08
 88ff262b-b121-4bd3-8a6c-757f9c081672,scary.camera,available,21.99,75.99,high,low,5,name.com,,,12/08/2026 05:23
 9df1a349-e9fe-45e8-b6c0-71383a1d6475,osborn.camera,available,58.99,58.99,high,low,6,namesilo,,,27/09/2026 07:58
 bd4555c0-f03c-436e-b021-3a5e2abcda02,turndown.camera,available,21.99,,high,low,9,name.com,,,
 973c51a4-7c12-468f-a88e-1d30b5149293,ooze.camera,available,58.99,58.99,high,low,4,namesilo,,,04/09/2026 15:40
 91a7decc-0026-49b2-8371-84a9c6cf6351,spangled.camera,available,21.99,75.99,high,low,8,name.com,,,18/08/2026 21:17
-f0715093-4b74-4182-a2c0-743182161ac9,fungicide.camera,available,21.99,75.99,high,low,9,name.com,,,
-82bbb6ad-6aa3-4eae-b723-2478f55982ce,irons.camera,available,21.99,,high,low,5,name.com,,,
-2852fbd1-e742-4a68-8429-0ee78a852018,hemorrhage.camera,available,58.99,58.99,high,low,10,namesilo,,,24/09/2026 05:28
+f0715093-4b74-4182-a2c0-743182161ac9,fungicide.camera,available,21.99,75.99,medium,low,9,name.com,,,
+82bbb6ad-6aa3-4eae-b723-2478f55982ce,irons.camera,available,21.99,,medium,low,5,name.com,,,
+2852fbd1-e742-4a68-8429-0ee78a852018,hemorrhage.camera,available,58.99,58.99,medium,low,10,namesilo,,,24/09/2026 05:28
 3bb67b5e-793a-4582-bc28-5ee9ee3c70df,passionate.camera,available,61.98,72.98,high,low,10,namecheap,,,27/09/2026 02:53
 3c768161-ec7c-4652-9edc-8fc8d8bf1146,pubic.camera,available,58.99,58.99,medium,low,5,namesilo,,,09/09/2026 05:20
 d252ba6f-9132-49a2-9bd6-8845a5ba2832,buttercup.camera,available,58.99,58.99,high,low,9,namesilo,,,24/09/2026 11:18
@@ -752,10 +769,10 @@ d7a473bc-23be-456f-8daa-93566ae1aefd,dominoes.camera,available,58.99,58.99,high,
 2da05e74-a8d5-4677-81e6-012fb8d07f01,cyclopean.camera,available,21.99,75.99,medium,low,9,name.com,,,13/08/2026 13:51
 a392c96d-b2c0-4c51-862f-a314ea5f4ab6,roue.camera,available,58.99,58.99,medium,low,4,namesilo,,,09/09/2026 02:53
 451dbb31-599a-4f43-a58e-19898c0c0871,bernard.camera,available,61.98,72.98,high,low,7,namecheap,,,23/09/2026 09:46
-52a4e7f8-c07f-47f9-b332-b36086ce1a59,dishonor.camera,available,21.99,,high,low,8,name.com,,,
+52a4e7f8-c07f-47f9-b332-b36086ce1a59,dishonor.camera,available,21.99,,medium,low,8,name.com,,,
 d166b55d-8a6e-469d-92d1-b259ea2cafe7,forgive.camera,available,21.99,,high,low,7,name.com,,,
 30a70536-9ad0-4a7e-a197-2881fee091d5,appalled.camera,available,21.99,75.99,medium,low,8,name.com,,,
-d65908c5-99e5-4c27-8c45-ccdc6eacd74e,rostrum.camera,available,58.99,58.99,high,low,7,namesilo,,,18/09/2026 17:15
+d65908c5-99e5-4c27-8c45-ccdc6eacd74e,rostrum.camera,available,58.99,58.99,medium,low,7,namesilo,,,18/09/2026 17:15
 bd1bbbf2-53ef-4062-850e-19f3d29700b8,smartness.camera,available,21.99,75.99,high,low,9,name.com,,,12/08/2026 04:49
 3f090e9d-9588-46b6-a1df-6a26ad8865df,brigade.camera,available,58.99,58.99,high,low,7,namesilo,,,24/09/2026 10:19
 dca78757-56d1-4bc4-809c-56664ba596f3,alpenstock.camera,available,58.99,58.99,medium,low,10,namesilo,,,18/09/2026 13:32
@@ -776,7 +793,7 @@ bccbf1e5-c5f2-4eb1-b351-ba233c05b771,whap.camera,available,61.98,72.98,medium,lo
 3bd6ea84-95c9-4fd3-a05f-4fda0502c782,resentful.camera,available,58.99,58.99,medium,low,9,namesilo,,,09/09/2026 14:48
 96bfe396-0fa8-40a4-92f6-28c198d86414,fiercely.camera,available,21.99,,medium,low,8,name.com,,,
 b1a34b1c-e2e5-45bd-9525-c392cd091ff3,tricuspid.camera,available,61.98,72.98,medium,low,9,namecheap,,,11/09/2026 19:29
-0fcacd22-d6d3-4737-84d5-71d1adc70f7c,xxiii.camera,available,21.99,75.99,high,low,5,name.com,,,
+0fcacd22-d6d3-4737-84d5-71d1adc70f7c,xxiii.camera,available,21.99,75.99,medium,low,5,name.com,,,
 a5064640-1298-44a0-84d7-6550ae9baf16,domino.camera,available,58.99,58.99,high,low,6,namesilo,,,19/09/2026 15:22
 f7d97b56-1dea-409e-8967-0d0a02967f88,carrie.camera,available,21.99,,high,low,6,name.com,,,
 bdc9d9ab-773d-4e98-819f-74ea371c5262,customs.camera,available,58.99,58.99,high,low,7,namesilo,,,24/09/2026 20:42
@@ -786,8 +803,8 @@ e8ee569e-d31d-4e97-9e50-9ed6e520a798,pureblood.camera,available,58.99,58.99,medi
 e7465ec1-97f7-4acb-9125-30e026e18429,experient.camera,available,21.99,75.99,medium,low,9,name.com,,,17/08/2026 18:12
 ec2f7e34-84a1-4af5-9807-1f250cce49db,lawfully.camera,available,21.99,75.99,medium,low,8,name.com,,,13/08/2026 19:09
 cf9d7d3b-438b-4380-aa99-b17d3c56919a,decimal.camera,available,21.99,75.99,high,low,7,name.com,,,13/08/2026 21:27
-e6d59dfe-5738-4db3-b5f4-0f831afecd5c,positron.camera,available,61.98,72.98,high,low,8,namecheap,,,19/09/2026 14:21
-3f7a1db6-2a85-4a30-aa30-cfe9aa6581c1,underestimate.camera,available,21.99,,high,low,13,name.com,,,
+e6d59dfe-5738-4db3-b5f4-0f831afecd5c,positron.camera,available,61.98,72.98,medium,low,8,namecheap,,,19/09/2026 14:21
+3f7a1db6-2a85-4a30-aa30-cfe9aa6581c1,underestimate.camera,available,21.99,,medium,low,13,name.com,,,
 9d2a88bb-bcb8-463b-8680-e4cfe668a9ac,bengal.camera,available,58.99,58.99,high,low,6,namesilo,,,23/09/2026 07:59
 5ca1f81a-0a69-4038-9fbd-b07afef4e08a,ineffable.camera,available,21.99,75.99,high,low,9,name.com,,,22/08/2026 02:45
 f18b7de5-b1f5-4809-86d8-993fd5991243,rapacity.camera,available,58.99,58.99,medium,low,8,namesilo,,,21/09/2026 08:45
@@ -802,19 +819,22 @@ b8fd6bcd-2ee1-4653-a73d-b24ba138846e,brambly.camera,available,21.99,75.99,medium
 545d391a-61d0-4609-ad70-880b5c1eced8,ucla.camera,available,58.99,58.99,high,low,4,namesilo,,,25/09/2026 15:03
 4f088c0f-c81c-48cf-8a01-eb23efe133bb,eastmost.camera,available,21.99,75.99,medium,low,8,name.com,,,14/08/2026 22:57
 931211fd-e277-402f-a909-a000ad3961b3,nilotic.camera,available,58.99,58.99,medium,low,7,namesilo,,,03/09/2026 17:26
+8fe4277b-a12a-45bc-b8b7-613341c68de9,understands.camera,available,46.78,46.78,high,low,11,spaceship,,,28/09/2026 00:05
 9461c70d-abf4-4ef4-bfcc-457220addbed,entertainment.camera,available,58.99,58.99,high,low,13,namesilo,,,25/09/2026 02:31
 d46606fc-f1b4-44d3-8a96-b1f4d802b86d,papillary.camera,available,58.99,58.99,medium,low,9,namesilo,,,05/09/2026 01:21
 eaf7b82c-abcc-40d0-a71f-22b04130dce0,planar.camera,available,58.99,58.99,high,low,6,namesilo,,,08/09/2026 20:37
-4c53fa18-34fb-4051-8cfa-cd5531039b7c,schoolbook.camera,available,58.99,58.99,high,low,11,namesilo,,,19/09/2026 07:03
+4c53fa18-34fb-4051-8cfa-cd5531039b7c,schoolbook.camera,available,58.99,58.99,medium,low,11,namesilo,,,19/09/2026 07:03
+696cf0f7-288f-44b6-8ce4-b180a426b1cc,brick.camera,available,46.78,46.78,high,low,5,spaceship,,,27/09/2026 11:59
 be15bff7-93ea-4813-8306-bd9450bc5f7a,arriviste.camera,available,58.99,58.99,medium,low,9,namesilo,,,03/09/2026 22:17
 9a872e90-4caa-44cc-b716-82ed40b5174e,willow.camera,available,21.99,,high,low,6,name.com,,,
 da4d41ee-2eee-4ee2-9f13-c6d7497e97e4,stoically.camera,available,58.99,58.99,medium,low,9,namesilo,,,16/09/2026 07:14
 9c312356-d0dc-4359-b75c-2862fd9a390c,recognize.camera,available,58.99,58.99,high,low,9,namesilo,,,27/09/2026 02:43
+728097ae-0fa3-4ae3-a0a1-4ad48e472686,willamette.camera,available,58.99,58.99,medium,low,10,namesilo,,,27/09/2026 16:20
 230d61a3-f97d-4be2-a022-64ea30f09e15,nobelium.camera,available,61.98,72.98,medium,low,8,namecheap,,,20/09/2026 21:58
 b5a628e4-8e7f-49cc-91d2-11cbe440c355,biochemist.camera,available,58.99,58.99,high,low,10,namesilo,,,23/09/2026 17:44
 fadf6660-ea2e-45cf-b6a5-1c4b1e8ea523,bhutanese.camera,available,21.99,75.99,medium,low,9,name.com,,,09/08/2026 18:24
-34268bd7-da21-465f-9619-d149f9307be4,combative.camera,available,21.99,75.99,high,low,9,name.com,,,
-61358c41-2c85-4b46-b173-dbe3e894462a,noyes.camera,available,58.99,58.99,high,low,5,namesilo,,,18/09/2026 06:42
+34268bd7-da21-465f-9619-d149f9307be4,combative.camera,available,21.99,75.99,medium,low,9,name.com,,,
+61358c41-2c85-4b46-b173-dbe3e894462a,noyes.camera,available,58.99,58.99,medium,low,5,namesilo,,,18/09/2026 06:42
 454a92ae-c9d8-4a96-b11c-c35b816e52bf,overnight.camera,available,61.98,72.98,high,low,9,namecheap,,,22/09/2026 00:44
 a1f50809-62df-4d67-bb8e-da63a880a803,benet.camera,available,58.99,58.99,high,low,5,namesilo,,,23/09/2026 07:58
 b29b2f14-e482-4755-a556-d218d8621504,mission.camera,available,21.99,,high,medium,7,name.com,,,
@@ -825,9 +845,9 @@ d8611b87-2b1f-4b00-867c-cbfc893d34ee,aramean.camera,available,21.99,75.99,medium
 ec4f633d-4e7f-4ab3-9a8c-8595b164866a,nebulously.camera,available,58.99,58.99,low,low,10,namesilo,,,15/09/2026 16:18
 0a94e05f-f12b-4839-9ed7-40c155ab6a82,numinous.camera,available,58.99,58.99,medium,low,8,namesilo,,,03/09/2026 23:01
 041c993c-cabc-4885-8a8d-b6438838a14c,briggs.camera,available,58.99,58.99,high,low,6,namesilo,,,25/09/2026 15:50
-c6ec3a2f-1ba2-44f7-9cfd-8f8420041bfc,seated.camera,available,21.99,,high,low,6,name.com,,,
+c6ec3a2f-1ba2-44f7-9cfd-8f8420041bfc,seated.camera,available,46.78,46.78,high,low,6,spaceship,,,27/09/2026 19:11
 3f5298cb-323b-4d3f-9008-9576be0838b5,bathtub.camera,available,58.99,58.99,high,low,7,namesilo,,,22/09/2026 13:40
-f4a0096d-f159-40d1-88cc-6ebe03e6ab9a,bugs.camera,available,58.99,58.99,high,low,4,namesilo,,,25/09/2026 12:21
+f4a0096d-f159-40d1-88cc-6ebe03e6ab9a,bugs.camera,available,58.99,58.99,medium,low,4,namesilo,,,25/09/2026 12:21
 3a723163-431f-4878-b198-6c9a42f20885,betting.camera,available,21.99,75.99,high,low,7,name.com,,,09/08/2026 18:14
 7d11fda6-1c77-4d20-aa12-fce83cbd1033,goby.camera,available,58.99,58.99,medium,low,5,namesilo,,,16/09/2026 16:23
 4dfc9dc2-d75b-4f14-ad94-78940e442261,blighted.camera,available,21.99,75.99,medium,low,8,name.com,,,10/08/2026 14:17
@@ -858,6 +878,7 @@ ae58dfb3-33dd-4888-9cbf-441e3f398177,collected.camera,available,21.99,75.99,high
 e8983caf-91da-4470-8119-457e3cdeb709,binding.camera,available,61.98,72.98,high,low,7,namecheap,,,22/09/2026 20:51
 917df3f5-bb9c-464e-b867-33f7537e29eb,latterly.camera,available,21.99,75.99,medium,low,8,name.com,,,15/09/2026 10:54
 252bb258-9859-45d4-ae0c-61def2b3eae9,osmanli.camera,available,58.99,58.99,medium,low,7,namesilo,,,04/09/2026 18:41
+0af2a052-cf72-42c1-9433-4a3436f7789b,complaining.camera,available,46.78,46.78,high,low,11,spaceship,,,27/09/2026 17:47
 7c944d93-22f9-486f-8c7d-e3e9e94bfb78,kennedy.camera,available,58.99,58.99,high,low,7,namesilo,,,25/09/2026 23:14
 d0f2df65-9f92-46e3-bfe1-58b37b196ebe,britten.camera,available,58.99,58.99,medium,low,7,namesilo,,,23/09/2026 08:15
 30ae4558-9c5d-493b-a609-db82f41dfa66,xxxv.camera,available,21.99,75.99,medium,low,4,name.com,,,
@@ -870,10 +891,11 @@ aca642d4-97cc-4b72-aeb9-d2ce687c3773,atlanta.camera,available,61.98,72.98,high,l
 0da89cc5-6658-4402-adc4-0f4b01904a05,conditions.camera,available,21.99,,high,low,10,name.com,,,
 d130227c-2219-415d-bcd4-4d683a8a8f7a,dday.camera,available,58.99,58.99,high,low,5,namesilo,,,16/09/2026 12:39
 9f0749f9-98dd-4d01-9085-58f4528fbdd0,ward.camera,available,58.99,58.99,high,low,4,namesilo,,,16/09/2026 13:33
-c15ac34d-71dd-42c5-b7ed-4532baf290c8,rhythmic.camera,available,21.99,,high,low,8,name.com,,,
-d980fd06-ccc5-42ac-9533-3914cda794a5,licking.camera,available,58.99,58.99,high,low,7,namesilo,,,13/09/2026 11:11
+c15ac34d-71dd-42c5-b7ed-4532baf290c8,rhythmic.camera,available,45.2,45.2,high,low,8,cloudflare,,,27/09/2026 14:50
+d980fd06-ccc5-42ac-9533-3914cda794a5,licking.camera,available,58.99,58.99,medium,low,7,namesilo,,,13/09/2026 11:11
 21b03c62-9d6c-4793-9fe8-bc27c29695b0,alnico.camera,available,61.98,72.98,medium,low,6,namecheap,,,18/09/2026 12:50
 18ba14e7-2f7d-4041-abf1-41d00533a1da,hawaii.camera,available,21.99,,high,low,6,name.com,,,
+82ac19bb-ff6a-4710-8e16-7a5d3f965bc9,buena.camera,available,46.78,46.78,medium,low,5,spaceship,,,27/09/2026 21:05
 fdb29bfe-c116-4743-b624-dba1ba740ef1,armilla.camera,available,61.98,72.98,medium,low,7,namecheap,,,20/09/2026 07:02
 bf195c32-e88f-4e73-b5f8-335c3648b490,canine.camera,available,21.99,75.99,high,low,6,name.com,,,11/08/2026 16:56
 10b1ffee-a487-430a-9b24-9e44a85ef13f,euclidian.camera,available,21.99,75.99,medium,low,9,name.com,,,17/08/2026 14:04
@@ -884,17 +906,19 @@ b1372523-5b21-4ee1-a290-54629082e765,bleachers.camera,available,58.99,58.99,high
 ee20c09d-df77-4b4f-af1a-47e24c070592,civilization.camera,available,58.99,58.99,high,low,12,namesilo,,,27/09/2026 07:12
 210adbe2-8fcf-41f0-a6c3-93750ef9fffc,pearl.camera,available,58.99,58.99,high,low,5,namesilo,,,04/09/2026 01:21
 d1667f59-413e-4fb0-abec-818cf0397c2d,wilde.camera,available,58.99,58.99,high,low,5,namesilo,,,25/09/2026 09:39
+2f1361f2-3452-42b5-87b5-d82621bfd372,graveyard.camera,available,45.2,45.2,high,low,9,cloudflare,,,28/09/2026 01:14
 d2dfb335-e777-446f-a04e-0fc04e5d14a9,eater.camera,available,58.99,58.99,high,low,5,namesilo,,,19/09/2026 09:42
 d53a4e3c-2a4e-4679-a2f2-d0fe34467344,bookmark.camera,available,58.99,58.99,high,low,8,namesilo,,,24/09/2026 07:12
 235aab9a-9796-4692-b347-3f01281e44a6,farmer.camera,available,21.99,75.99,high,low,6,name.com,,,08/09/2026 06:02
 a9863421-0653-4e58-bf01-0f50901a5afe,azimuth.camera,available,58.99,58.99,high,low,7,namesilo,,,21/09/2026 10:54
 593f17a6-fec1-4437-b0c3-57d58b00c549,loops.camera,available,58.99,58.99,high,low,5,namesilo,,,17/09/2026 12:15
 90eb68d6-8e87-4949-a0f3-b81bf5032cf8,amaterasu.camera,available,58.99,58.99,medium,low,9,namesilo,,,18/09/2026 16:05
+5312dfe0-9b52-4793-b08e-17804c5c033f,suggesting.camera,available,11.84,46.86,high,low,10,porkbun,,,27/09/2026 17:56
 cd0c7c6e-d430-4341-a692-807b97f07702,buff.camera,available,21.99,75.99,high,low,4,name.com,,,11/08/2026 07:48
 d28b6ad5-0927-48e9-a997-7720d81f3281,tempra.camera,available,58.99,58.99,medium,low,6,namesilo,,,16/09/2026 23:57
 37b240c3-4681-4b04-ae73-db22a719368b,spay.camera,available,21.99,75.99,medium,low,4,name.com,,,03/09/2026 16:33
 d8d6eea4-3dda-40b0-ba84-fef471989704,isotonic.camera,available,21.99,75.99,medium,low,8,name.com,,,22/08/2026 11:18
-a5ba13fe-8b5b-4c9c-960f-29eece37bd01,carte.camera,available,58.99,58.99,high,low,5,namesilo,,,23/09/2026 16:04
+a5ba13fe-8b5b-4c9c-960f-29eece37bd01,carte.camera,available,58.99,58.99,medium,low,5,namesilo,,,23/09/2026 16:04
 b26de601-8bd7-4526-8c51-4457d3da9075,flemish.camera,available,21.99,75.99,high,low,7,name.com,,,18/08/2026 07:56
 35969f9f-1b3b-4130-b84d-6cfa54752921,blackberry.camera,available,58.99,58.99,high,low,10,namesilo,,,24/09/2026 02:06
 f4535044-b6db-44f8-963b-702a86b34a31,forcible.camera,available,21.99,75.99,medium,low,8,name.com,,,18/08/2026 11:19
@@ -918,21 +942,21 @@ a3acf9b9-0f19-4670-bf16-d17afa2a4777,yowl.camera,available,61.98,72.98,medium,lo
 01712a60-d76a-4531-921f-69ffcd78c80d,explorer.camera,available,21.99,,high,low,8,name.com,,,
 61837395-a09d-4485-8daa-21357bbeed4e,dorian.camera,available,21.99,75.99,high,low,6,name.com,,,14/08/2026 16:11
 23ea235b-5cc1-4139-9569-7c87c4659aec,demesne.camera,available,58.99,58.99,medium,low,7,namesilo,,,17/09/2026 02:57
-e6bb164f-dffa-43a4-9ab8-a1c4816a5f43,bishopric.camera,available,58.99,58.99,high,low,9,namesilo,,,23/09/2026 21:59
+e6bb164f-dffa-43a4-9ab8-a1c4816a5f43,bishopric.camera,available,58.99,58.99,medium,low,9,namesilo,,,23/09/2026 21:59
 4f9c349d-cfa7-485a-8e47-142eb6646c90,cannoneer.camera,available,58.99,58.99,medium,low,9,namesilo,,,20/09/2026 11:44
 b04e073a-79fc-4490-b9c1-c48f1fb2c279,offensive.camera,available,21.99,75.99,high,low,9,name.com,,,14/08/2026 22:05
 28716a60-5a25-4a52-a9e1-7c2ceef1026d,crucify.camera,available,21.99,75.99,medium,low,7,name.com,,,14/08/2026 21:17
-2d85c951-439a-4246-b925-742ceb8b7e78,perforation.camera,available,21.99,,high,low,11,name.com,,,
+2d85c951-439a-4246-b925-742ceb8b7e78,perforation.camera,available,21.99,,medium,low,11,name.com,,,
 2cff1502-d10f-4007-84a4-bac1adfbe9b4,humbly.camera,available,58.99,58.99,high,low,6,namesilo,,,15/09/2026 01:22
-7e7b09af-d11e-4539-95ea-3830fda9c0aa,surprises.camera,available,58.99,58.99,high,low,9,namesilo,,,20/09/2026 10:56
+7e7b09af-d11e-4539-95ea-3830fda9c0aa,surprises.camera,available,58.99,58.99,medium,low,9,namesilo,,,20/09/2026 10:56
 dfcca9ab-0d89-47c0-9126-410f4b682368,object.camera,available,58.99,58.99,high,low,6,namesilo,,,19/09/2026 05:21
 c4597247-f939-40d4-bdea-1efbad924231,officially.camera,available,58.99,58.99,high,low,10,namesilo,,,14/09/2026 19:44
 62a105af-e114-471c-b063-00f63d7f20c6,atrophic.camera,available,21.99,75.99,medium,low,8,name.com,,,07/08/2026 14:52
-602baee2-5fed-49ae-b4e8-bd622756e7d0,brits.camera,available,21.99,75.99,high,low,5,name.com,,,11/08/2026 04:46
+602baee2-5fed-49ae-b4e8-bd622756e7d0,brits.camera,available,21.99,75.99,medium,low,5,name.com,,,11/08/2026 04:46
 19963bd8-60db-440d-b8ae-9c00f9ef8403,americas.camera,available,21.99,,high,low,8,name.com,,,
 bb535af1-0585-4de1-b1aa-9677b6e8a38a,inertial.camera,available,21.99,75.99,medium,low,8,name.com,,,22/08/2026 03:59
 559c561a-de31-4036-b27c-ae01e44724a0,puzzling.camera,available,21.99,75.99,high,low,8,name.com,,,17/08/2026 09:15
-21cc395c-1bfe-4d7c-b8df-b5d00af4b1d5,aldose.camera,available,58.99,58.99,high,low,6,namesilo,,,18/09/2026 04:38
+21cc395c-1bfe-4d7c-b8df-b5d00af4b1d5,aldose.camera,available,58.99,58.99,medium,low,6,namesilo,,,18/09/2026 04:38
 b548f70b-5a44-4130-aea1-e28c470f4779,closeness.camera,available,58.99,58.99,high,low,9,namesilo,,,24/09/2026 15:57
 c1377452-bab9-43e4-8757-dac510850237,energising.camera,available,21.99,75.99,medium,low,10,name.com,,,17/08/2026 06:43
 332530da-b879-473a-a649-20deb18e6555,dressing.camera,available,58.99,58.99,high,low,8,namesilo,,,22/09/2026 00:55
@@ -945,11 +969,11 @@ ec9338bc-e01e-47f8-bf82-19ef72aaca68,modeler.camera,available,21.99,,high,low,7,
 6afc32ba-2d89-4a2d-ac18-562d3c511c73,dime.camera,available,21.99,,high,low,4,name.com,,,
 df454ae1-d904-4075-b794-f00f4c5ccec1,gawky.camera,available,21.99,75.99,medium,low,5,name.com,,,12/08/2026 13:06
 6469edc9-cddb-4f72-ab5b-8d233d1faeb8,billiards.camera,available,58.99,58.99,high,low,9,namesilo,,,23/09/2026 16:23
-b15fa0ad-0597-441b-8e1b-7bb5a7421fdc,ontogeny.camera,available,21.99,75.99,high,low,8,name.com,,,20/08/2026 20:29
+b15fa0ad-0597-441b-8e1b-7bb5a7421fdc,ontogeny.camera,available,21.99,75.99,medium,low,8,name.com,,,20/08/2026 20:29
 cb6f8824-5894-4095-a195-ea2c104d0e19,rumour.camera,available,21.99,75.99,high,low,6,name.com,,,21/08/2026 02:08
 0dd29a52-bff5-43b5-8fea-b27e392f1079,dartmouth.camera,available,58.99,58.99,medium,low,9,namesilo,,,25/09/2026 04:45
 6b3f7702-aca9-4a43-a315-135f90b428b1,aggregator.camera,available,61.98,72.98,high,low,10,namecheap,,,17/09/2026 17:29
-ae2d00a0-2332-4916-a0dd-3a3ae328030a,hypnotised.camera,available,21.99,75.99,high,low,10,name.com,,,17/08/2026 22:48
+ae2d00a0-2332-4916-a0dd-3a3ae328030a,hypnotised.camera,available,21.99,75.99,medium,low,10,name.com,,,17/08/2026 22:48
 121c601f-9773-4a55-9596-2575cfbffbf9,songbird.camera,available,21.99,,high,low,8,name.com,,,
 f255e4d1-8b76-4edf-9ec8-8097ba290ffd,watched.camera,available,58.99,58.99,high,low,7,namesilo,,,18/09/2026 01:33
 0034d1ae-88b3-4bd1-a56c-9686e1223e9d,assistance.camera,available,58.99,58.99,high,low,10,namesilo,,,17/09/2026 20:44
@@ -972,30 +996,6 @@ e3c06567-c441-40a8-9255-7862fe5e57ba,ski.camera,available,58.99,58.99,high,low,3
 dca3bbcb-9c03-4067-a6b0-4522ea376b84,customise.camera,available,21.99,,high,low,9,name.com,,,
 b375ce71-44a5-4a41-b449-943161f71462,bringing.camera,available,21.99,,high,low,8,name.com,,,
 a047ed01-4240-46fd-a982-925b00dbe418,melvin.camera,available,58.99,58.99,high,low,6,namesilo,,,26/09/2026 03:21
-3021dce9-e13f-486e-8c9e-03f3e76e5a00,nonsmoking.camera,available,61.98,72.98,high,low,11,namecheap,,,16/09/2026 20:03
+3021dce9-e13f-486e-8c9e-03f3e76e5a00,nonsmoking.camera,available,61.98,72.98,medium,low,11,namecheap,,,16/09/2026 20:03
 a18cb375-2f8a-4bbd-936c-ffc05dd03658,unsinkable.camera,available,61.98,72.98,medium,low,10,namecheap,,,12/09/2026 19:58
 9e338c1c-c9a5-466c-a2ef-5754f761df79,greater.camera,available,21.99,75.99,high,low,7,name.com,,,20/08/2026 19:38
-e80d4ba6-acba-4562-a732-00fe40715fc6,aqua.camera,available,58.99,58.99,high,medium,4,namesilo,,,19/09/2026 22:48
-3a6be73c-9d45-4d82-96e3-151067015eff,boris.camera,available,61.98,72.98,high,low,5,namecheap,,,25/09/2026 20:39
-5d375fa8-745e-4f64-8d37-c4fa4ace0370,squirrel.camera,available,21.99,,high,low,8,name.com,,,
-fa3e0ad1-763f-4abb-aff3-3a15fad3f63c,screeching.camera,available,58.99,58.99,medium,low,10,namesilo,,,09/09/2026 23:59
-b0332bfc-f5e3-4302-a75b-0336a76b9329,whistle.camera,available,58.99,58.99,high,low,7,namesilo,,,25/09/2026 23:59
-0a2dd46a-6219-4b85-9977-4bdaebb4095b,leads.camera,available,61.98,72.98,high,low,5,namecheap,,,25/09/2026 20:21
-4cd9f4af-6d80-42ff-8ca9-169297a3221c,riders.camera,available,58.99,58.99,high,low,6,namesilo,,,20/09/2026 01:20
-f21c51a1-c324-4151-8dad-9be879e8580e,disruptive.camera,available,21.99,75.99,medium,low,10,name.com,,,14/08/2026 12:21
-beefb3fd-b2f0-427b-b491-1deb898c649b,album.camera,available,21.99,,high,low,5,name.com,,,
-e5ce4d33-e58d-4ac5-ad2f-6d694b1c5c71,romish.camera,available,58.99,58.99,medium,low,6,namesilo,,,05/09/2026 01:30
-6fc1cf76-b0dc-44fe-a5f1-66d6e686f793,len.camera,available,61.98,72.98,medium,low,3,namecheap,,,27/09/2026 01:38
-f3964118-f30b-4591-893b-63c15d1e5e6a,flowery.camera,available,21.99,75.99,high,low,7,name.com,,,18/08/2026 09:09
-823d670f-f9db-4af2-b5e8-582669d04b01,topic.camera,available,21.99,,high,low,5,name.com,,,
-25fffea6-ca82-4336-990d-d927c4db2c3a,babble.camera,available,58.99,58.99,high,low,6,namesilo,,,21/09/2026 12:19
-80bc99ac-2e6f-4738-bd53-e37a00c67f72,jovian.camera,available,21.99,75.99,medium,low,6,name.com,,,22/08/2026 14:02
-4e99fd36-2b45-4c35-a3ec-0ab24e17e929,titled.camera,available,21.99,75.99,high,low,6,name.com,,,13/08/2026 01:50
-0a3f0926-6f19-4def-99d5-c21b7d9dec6a,hangout.camera,available,21.99,,high,low,8,name.com,,,
-b0c6bf06-ae1d-48b5-a723-e350fe851461,sullen.camera,available,21.99,75.99,medium,low,6,name.com,,,20/08/2026 15:06
-85d8b7cd-fa53-4f9b-93f0-f6e9e40aff66,vesture.camera,available,58.99,58.99,high,low,7,namesilo,,,13/09/2026 09:02
-ade241d3-87d7-4f55-b759-a60ee86de19c,sites.camera,available,61.98,72.98,high,low,5,namecheap,,,18/09/2026 21:00
-a4b6196b-df15-4d84-9a7e-b814c1b6b016,decreed.camera,available,21.99,75.99,medium,low,7,name.com,,,13/08/2026 22:14
-fc9cd82e-fc62-4aa0-ae47-539aa7294e16,anatoxin.camera,available,58.99,58.99,medium,low,8,namesilo,,,19/09/2026 03:34
-69e925fc-7f99-45db-bf54-4c91f887f4a3,promethium.camera,available,58.99,58.99,medium,low,10,namesilo,,,20/09/2026 23:23
-64b06d59-f04c-400c-a5d4-527da7ed1dac,prudently.camera,available,58.99,58.99,medium,low,9,namesilo,,,15/09/2026 21:50
