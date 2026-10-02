@@ -1,10 +1,10 @@
-# Available .CAMERA One-Word Domains (31,092)
+# Available .CAMERA One-Word Domains (32,660)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C092%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C660%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .camera one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,092 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,660 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,092 domains · **Median ask:** $47.70 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 32,660 domains · **Median ask:** $47.87 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/camera`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| abm.camera      | available | $61.98    | $72.98        | high           | low    | 3      | namecheap        |
-| blog.camera     | resell    | —         | —             | high           | medium | 4      | —                |
-| kids.camera     | premium   | $128.70   | $128.70       | high           | low    | 4      | namecheap        |
-| ann.camera      | available | $21.99    | —             | high           | low    | 3      | name.com         |
-| dome.camera     | resell    | —         | —             | medium         | low    | 4      | —                |
-| gifts.camera    | premium   | $520      | $520          | medium         | low    | 5      | namecheap        |
-| bds.camera      | available | $45.20    | $45.20        | high           | low    | 3      | cloudflare       |
-| global.camera   | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
-| download.camera | premium   | $512      | $512          | high           | low    | 8      | namesilo         |
-| bns.camera      | available | $58.99    | $58.99        | high           | low    | 3      | namesilo         |
-| remote.camera   | resell    | —         | —             | high           | medium | 6      | Dynadot Inc      |
-| printer.camera  | premium   | —         | —             | high           | low    | 7      | —                |
-| cns.camera      | available | $46.78    | $46.78        | medium         | low    | 3      | spaceship        |
-| cpr.camera      | available | $58.99    | $58.99        | high           | low    | 3      | namesilo         |
-| csr.camera      | available | $58.99    | $58.99        | high           | low    | 3      | namesilo         |
-| cxv.camera      | available | $21.99    | $75.99        | high           | low    | 3      | name.com         |
-| dim.camera      | available | $21.99    | $75.99        | high           | low    | 3      | name.com         |
-| dio.camera      | available | $45.20    | $45.20        | medium         | low    | 3      | cloudflare       |
-| dlc.camera      | available | $11.99    | $48.37        | high           | low    | 3      | dynadot          |
-| don.camera      | available | $58.99    | $58.99        | high           | low    | 3      | namesilo         |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| abm.camera      | available | $61.98    | $72.98        | high           | low    | 3      | namecheap   |
+| blog.camera     | resell    | —         | —             | high           | medium | 4      | —           |
+| kids.camera     | premium   | $128.70   | $128.70       | high           | low    | 4      | namecheap   |
+| ann.camera      | available | $46.78    | $46.78        | high           | low    | 3      | spaceship   |
+| dome.camera     | resell    | —         | —             | medium         | low    | 4      | —           |
+| gifts.camera    | premium   | $520      | $520          | medium         | low    | 5      | namecheap   |
+| bds.camera      | available | $45.20    | $45.20        | high           | low    | 3      | cloudflare  |
+| remote.camera   | resell    | —         | —             | high           | medium | 6      | Dynadot Inc |
+| download.camera | premium   | $512      | $512          | high           | low    | 8      | namesilo    |
+| bns.camera      | available | $58.99    | $58.99        | high           | low    | 3      | namesilo    |
+| printer.camera  | premium   | —         | —             | high           | low    | 7      | —           |
+| cns.camera      | available | $46.78    | $46.78        | medium         | low    | 3      | spaceship   |
+| cpr.camera      | available | $58.99    | $58.99        | high           | low    | 3      | namesilo    |
+| csr.camera      | available | $58.99    | $58.99        | high           | low    | 3      | namesilo    |
+| cxv.camera      | available | $21.99    | $75.99        | high           | low    | 3      | name.com    |
+| dim.camera      | available | $21.99    | $75.99        | high           | low    | 3      | name.com    |
+| dio.camera      | available | $45.20    | $45.20        | medium         | low    | 3      | cloudflare  |
+| dlc.camera      | available | $11.99    | $48.37        | high           | low    | 3      | dynadot     |
+| don.camera      | available | $58.99    | $58.99        | high           | low    | 3      | namesilo    |
+| dre.camera      | available | $11.99    | $48.37        | high           | low    | 3      | dynadot     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,092 live domains                        |
+| 1,000-row public sample | 32,660 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAMERA One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAMERA One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
